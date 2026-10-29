@@ -1,0 +1,4289 @@
+{
+ "checkedAt": "2026-10-29",
+ "services": [
+  {
+   "name": "Netflix",
+   "keys": [
+    "netflix",
+    "ネットフリックス",
+    "ネトフリ"
+   ],
+   "plans": [
+    {
+     "plan": "広告つきスタンダード",
+     "price": 890,
+     "cycle": "m"
+    },
+    {
+     "plan": "スタンダード",
+     "price": 1590,
+     "cycle": "m"
+    },
+    {
+     "plan": "プレミアム",
+     "price": 2290,
+     "cycle": "m"
+    }
+   ],
+   "cancelUrl": "https://help.netflix.com/ja/node/407",
+   "category": "動画",
+   "color": "#000000",
+   "fg": "#E50914",
+   "domain": "netflix.com"
+  },
+  {
+   "name": "YouTube Premium",
+   "keys": [
+    "youtube",
+    "ユーチューブ",
+    "ようつべ"
+   ],
+   "plans": [
+    {
+     "plan": "個人",
+     "price": 1280,
+     "cycle": "m"
+    },
+    {
+     "plan": "ファミリー",
+     "price": 2280,
+     "cycle": "m"
+    },
+    {
+     "plan": "学生",
+     "price": 780,
+     "cycle": "m"
+    },
+    {
+     "plan": "Lite",
+     "price": 780,
+     "cycle": "m"
+    }
+   ],
+   "cancelUrl": "https://support.google.com/youtube/answer/6308278?hl=ja",
+   "category": "動画",
+   "color": "#FFFFFF",
+   "fg": "#FF0000",
+   "domain": "youtube.com"
+  },
+  {
+   "name": "YouTube Music Premium",
+   "keys": [
+    "youtube",
+    "youtube music",
+    "ユーチューブミュージック"
+   ],
+   "plans": [
+    {
+     "plan": "個人(Web・Android)",
+     "price": 1080,
+     "cycle": "m"
+    },
+    {
+     "plan": "個人(iOSアプリ内課金)",
+     "price": 1450,
+     "cycle": "m"
+    }
+   ],
+   "cancelUrl": "https://support.google.com/youtubemusic/answer/6308278?hl=ja",
+   "category": "音楽",
+   "color": "#FF0000",
+   "fg": "#FFFFFF",
+   "domain": "music.youtube.com"
+  },
+  {
+   "name": "Amazonプライム",
+   "keys": [
+    "amazon",
+    "アマゾン",
+    "プライム",
+    "prime",
+    "amazon prime",
+    "アマプラ",
+    "プライムビデオ"
+   ],
+   "plans": [
+    {
+     "plan": "月額",
+     "price": 600,
+     "cycle": "m"
+    },
+    {
+     "plan": "年額",
+     "price": 5900,
+     "cycle": "y"
+    },
+    {
+     "plan": "Prime Student 月額",
+     "price": 300,
+     "cycle": "m"
+    },
+    {
+     "plan": "Prime Student 年額",
+     "price": 2950,
+     "cycle": "y"
+    }
+   ],
+   "cancelUrl": "https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=TImxImwzmibbGd3VYy",
+   "category": "ショッピング",
+   "color": "#00A8E1",
+   "fg": "#FFFFFF",
+   "domain": "amazon.co.jp"
+  },
+  {
+   "name": "ディズニープラス",
+   "keys": [
+    "disney",
+    "ディズニー",
+    "ディズニープラス",
+    "disney+",
+    "disneyplus"
+   ],
+   "plans": [
+    {
+     "plan": "スタンダード 月額",
+     "price": 1250,
+     "cycle": "m"
+    },
+    {
+     "plan": "スタンダード 年額",
+     "price": 12500,
+     "cycle": "y"
+    },
+    {
+     "plan": "プレミアム 月額",
+     "price": 1670,
+     "cycle": "m"
+    },
+    {
+     "plan": "プレミアム 年額",
+     "price": 16500,
+     "cycle": "y"
+    }
+   ],
+   "cancelUrl": "https://help.disneyplus.com/ja/article/disneyplus-cancel",
+   "category": "動画",
+   "color": "#0B2B5A",
+   "fg": "#FFFFFF",
+   "domain": "disneyplus.com"
+  },
+  {
+   "name": "U-NEXT",
+   "keys": [
+    "u-next",
+    "unext",
+    "ユーネクスト",
+    "ユーネク"
+   ],
+   "plans": [
+    {
+     "plan": "月額プラン(Web申込)",
+     "price": 2189,
+     "cycle": "m"
+    },
+    {
+     "plan": "月額プラン(アプリ課金)",
+     "price": 2400,
+     "cycle": "m"
+    }
+   ],
+   "cancelUrl": "https://help.unext.jp/guide/detail/how-to-cancel-the-contract",
+   "category": "動画",
+   "color": "#000000",
+   "fg": "#FFFFFF",
+   "domain": "video.unext.jp"
+  },
+  {
+   "name": "Spotify",
+   "keys": [
+    "spotify",
+    "スポティファイ",
+    "スポティ"
+   ],
+   "plans": [
+    {
+     "plan": "Standard",
+     "price": 1080,
+     "cycle": "m"
+    },
+    {
+     "plan": "Student",
+     "price": 580,
+     "cycle": "m"
+    },
+    {
+     "plan": "Duo",
+     "price": 1480,
+     "cycle": "m"
+    },
+    {
+     "plan": "Family",
+     "price": 1880,
+     "cycle": "m"
+    }
+   ],
+   "cancelUrl": "https://support.spotify.com/jp/article/how-to-cancel-your-subscription/",
+   "category": "音楽",
+   "color": "#191414",
+   "fg": "#1DB954",
+   "domain": "spotify.com"
+  },
+  {
+   "name": "Hulu",
+   "keys": [
+    "hulu",
+    "フールー"
+   ],
+   "category": "動画",
+   "color": "#000000",
+   "plans": [
+    {
+     "plan": "Web決済",
+     "price": 1320,
+     "cycle": "m"
+    },
+    {
+     "plan": "アプリ内課金",
+     "price": 1450,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#1CE783",
+   "domain": "hulu.jp"
+  },
+  {
+   "name": "DAZN",
+   "keys": [
+    "dazn",
+    "ダゾーン"
+   ],
+   "category": "動画",
+   "color": "#000000",
+   "plans": [
+    {
+     "plan": "Standard 月払い",
+     "price": 4200,
+     "cycle": "m"
+    },
+    {
+     "plan": "Standard 年間(月々払い)",
+     "price": 3200,
+     "cycle": "m"
+    },
+    {
+     "plan": "Standard 年間(一括払い)",
+     "price": 32000,
+     "cycle": "y"
+    },
+    {
+     "plan": "Baseball 年間(月々払い)",
+     "price": 2300,
+     "cycle": "m"
+    },
+    {
+     "plan": "Global",
+     "price": 980,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#FFFFFF",
+   "domain": "dazn.com"
+  },
+  {
+   "name": "ABEMAプレミアム",
+   "keys": [
+    "abema",
+    "アベマ"
+   ],
+   "category": "動画",
+   "color": "#000000",
+   "plans": [
+    {
+     "plan": "広告つきプレミアム",
+     "price": 680,
+     "cycle": "m"
+    },
+    {
+     "plan": "プレミアム",
+     "price": 1180,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#FFFFFF",
+   "domain": "abema.tv"
+  },
+  {
+   "name": "dアニメストア",
+   "keys": [
+    "dアニメ",
+    "danime",
+    "dアニ"
+   ],
+   "category": "動画",
+   "color": "#EF5A28",
+   "plans": [
+    {
+     "plan": "Web決済",
+     "price": 660,
+     "cycle": "m"
+    },
+    {
+     "plan": "アプリ内課金",
+     "price": 760,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#FFFFFF",
+   "domain": "animestore.docomo.ne.jp"
+  },
+  {
+   "name": "DMM TV",
+   "keys": [
+    "dmm",
+    "dmmtv",
+    "dmmプレミアム"
+   ],
+   "category": "動画",
+   "color": "#0A0A0A",
+   "plans": [
+    {
+     "plan": "DMMプレミアム",
+     "price": 550,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#FFFFFF",
+   "domain": "tv.dmm.com"
+  },
+  {
+   "name": "Lemino",
+   "keys": [
+    "lemino",
+    "レミノ"
+   ],
+   "category": "動画",
+   "color": "#1A1A1A",
+   "plans": [
+    {
+     "plan": "プレミアム",
+     "price": 1540,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#C59CFF",
+   "domain": "lemino.docomo.ne.jp"
+  },
+  {
+   "name": "FODプレミアム",
+   "keys": [
+    "fod",
+    "フジテレビ"
+   ],
+   "category": "動画",
+   "color": "#E60012",
+   "plans": [
+    {
+     "plan": "ライト(広告つき)",
+     "price": 976,
+     "cycle": "m"
+    },
+    {
+     "plan": "スタンダード",
+     "price": 1320,
+     "cycle": "m"
+    },
+    {
+     "plan": "ポイントMAX",
+     "price": 2090,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#FFFFFF",
+   "domain": "fod.fujitv.co.jp"
+  },
+  {
+   "name": "TELASA",
+   "keys": [
+    "telasa",
+    "テラサ"
+   ],
+   "category": "動画",
+   "color": "#FFFFFF",
+   "plans": [
+    {
+     "plan": "見放題プラン",
+     "price": 990,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#F15A22",
+   "domain": "telasa.jp"
+  },
+  {
+   "name": "Apple TV",
+   "keys": [
+    "apple tv",
+    "appletv",
+    "アップルtv",
+    "apple tv+",
+    "appletv+"
+   ],
+   "category": "動画",
+   "color": "#000000",
+   "plans": [
+    {
+     "plan": "月額",
+     "price": 1200,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#FFFFFF",
+   "domain": "tv.apple.com"
+  },
+  {
+   "name": "Apple Music",
+   "keys": [
+    "apple music",
+    "applemusic",
+    "アップルミュージック"
+   ],
+   "category": "音楽",
+   "color": "#FA243C",
+   "plans": [
+    {
+     "plan": "個人",
+     "price": 1180,
+     "cycle": "m"
+    },
+    {
+     "plan": "学生",
+     "price": 680,
+     "cycle": "m"
+    },
+    {
+     "plan": "ファミリー",
+     "price": 1980,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#FFFFFF",
+   "domain": "music.apple.com"
+  },
+  {
+   "name": "Amazon Music Unlimited",
+   "keys": [
+    "amazon music",
+    "アマゾンミュージック",
+    "music unlimited"
+   ],
+   "category": "音楽",
+   "color": "#0B1A2E",
+   "plans": [
+    {
+     "plan": "個人(プライム会員)",
+     "price": 1080,
+     "cycle": "m"
+    },
+    {
+     "plan": "個人(プライム会員)年額",
+     "price": 10800,
+     "cycle": "y"
+    },
+    {
+     "plan": "個人",
+     "price": 1180,
+     "cycle": "m"
+    },
+    {
+     "plan": "ファミリー",
+     "price": 1980,
+     "cycle": "m"
+    },
+    {
+     "plan": "ファミリー 年額",
+     "price": 19800,
+     "cycle": "y"
+    }
+   ],
+   "fg": "#25D1DA",
+   "domain": "music.amazon.co.jp"
+  },
+  {
+   "name": "LINE MUSIC",
+   "keys": [
+    "line music",
+    "ラインミュージック",
+    "linemusic"
+   ],
+   "category": "音楽",
+   "color": "#06C755",
+   "plans": [
+    {
+     "plan": "一般(LINE STORE)",
+     "price": 980,
+     "cycle": "m"
+    },
+    {
+     "plan": "一般(アプリ内課金)",
+     "price": 1080,
+     "cycle": "m"
+    },
+    {
+     "plan": "学生(LINE STORE)",
+     "price": 480,
+     "cycle": "m"
+    },
+    {
+     "plan": "学生(アプリ内課金)",
+     "price": 580,
+     "cycle": "m"
+    },
+    {
+     "plan": "年額(LINE STORE)",
+     "price": 9600,
+     "cycle": "y"
+    },
+    {
+     "plan": "年額(アプリ内課金)",
+     "price": 10800,
+     "cycle": "y"
+    }
+   ],
+   "fg": "#FFFFFF",
+   "domain": "music.line.me"
+  },
+  {
+   "name": "Apple One",
+   "keys": [
+    "apple one",
+    "appleone",
+    "アップルワン"
+   ],
+   "category": "その他",
+   "color": "#000000",
+   "plans": [
+    {
+     "plan": "個人",
+     "price": 1350,
+     "cycle": "m"
+    },
+    {
+     "plan": "ファミリー",
+     "price": 2500,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#FFFFFF",
+   "domain": "apple.com"
+  },
+  {
+   "name": "iCloud+",
+   "keys": [
+    "icloud",
+    "アイクラウド"
+   ],
+   "category": "クラウド・ストレージ",
+   "color": "#FFFFFF",
+   "plans": [
+    {
+     "plan": "50GB",
+     "price": 180,
+     "cycle": "m"
+    },
+    {
+     "plan": "200GB",
+     "price": 540,
+     "cycle": "m"
+    },
+    {
+     "plan": "2TB",
+     "price": 1800,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#3693F3",
+   "domain": "icloud.com"
+  },
+  {
+   "name": "Google One",
+   "keys": [
+    "google one",
+    "グーグルワン",
+    "google ai",
+    "gemini",
+    "ジェミニ"
+   ],
+   "category": "クラウド・ストレージ",
+   "color": "#FFFFFF",
+   "plans": [
+    {
+     "plan": "ベーシック 100GB",
+     "price": 290,
+     "cycle": "m"
+    },
+    {
+     "plan": "ベーシック 100GB 年額",
+     "price": 2900,
+     "cycle": "y"
+    },
+    {
+     "plan": "プレミアム 2TB",
+     "price": 1450,
+     "cycle": "m"
+    },
+    {
+     "plan": "プレミアム 2TB 年額",
+     "price": 14500,
+     "cycle": "y"
+    },
+    {
+     "plan": "Google AI Plus",
+     "price": 725,
+     "cycle": "m"
+    },
+    {
+     "plan": "Google AI Pro",
+     "price": 2900,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#4285F4",
+   "domain": "one.google.com"
+  },
+  {
+   "name": "Microsoft 365",
+   "keys": [
+    "microsoft",
+    "マイクロソフト",
+    "office",
+    "オフィス",
+    "m365"
+   ],
+   "category": "AI・仕事効率化",
+   "color": "#FFFFFF",
+   "plans": [
+    {
+     "plan": "Personal",
+     "price": 2130,
+     "cycle": "m"
+    },
+    {
+     "plan": "Personal 年額",
+     "price": 21300,
+     "cycle": "y"
+    },
+    {
+     "plan": "Family",
+     "price": 2740,
+     "cycle": "m"
+    },
+    {
+     "plan": "Family 年額",
+     "price": 27400,
+     "cycle": "y"
+    },
+    {
+     "plan": "Premium",
+     "price": 3200,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#0078D4",
+   "domain": "microsoft365.com"
+  },
+  {
+   "name": "Nintendo Switch Online",
+   "keys": [
+    "nintendo",
+    "ニンテンドー",
+    "任天堂",
+    "switch",
+    "スイッチ"
+   ],
+   "category": "ゲーム",
+   "color": "#E60012",
+   "plans": [
+    {
+     "plan": "個人 1か月",
+     "price": 400,
+     "cycle": "m"
+    },
+    {
+     "plan": "個人 12か月",
+     "price": 3000,
+     "cycle": "y"
+    },
+    {
+     "plan": "ファミリー 12か月",
+     "price": 5800,
+     "cycle": "y"
+    },
+    {
+     "plan": "追加パック 個人 12か月",
+     "price": 5900,
+     "cycle": "y"
+    },
+    {
+     "plan": "追加パック ファミリー 12か月",
+     "price": 9900,
+     "cycle": "y"
+    }
+   ],
+   "fg": "#FFFFFF",
+   "domain": "nintendo.com"
+  },
+  {
+   "name": "PlayStation Plus",
+   "keys": [
+    "playstation",
+    "プレイステーション",
+    "ps plus",
+    "psplus",
+    "プレステ"
+   ],
+   "category": "ゲーム",
+   "color": "#FFFFFF",
+   "plans": [
+    {
+     "plan": "エッセンシャル 1か月",
+     "price": 850,
+     "cycle": "m"
+    },
+    {
+     "plan": "エッセンシャル 12か月",
+     "price": 6800,
+     "cycle": "y"
+    },
+    {
+     "plan": "エクストラ 1か月",
+     "price": 1300,
+     "cycle": "m"
+    },
+    {
+     "plan": "エクストラ 12か月",
+     "price": 11700,
+     "cycle": "y"
+    },
+    {
+     "plan": "プレミアム 1か月",
+     "price": 1550,
+     "cycle": "m"
+    },
+    {
+     "plan": "プレミアム 12か月",
+     "price": 13900,
+     "cycle": "y"
+    }
+   ],
+   "fg": "#0070D1",
+   "domain": "playstation.com"
+  },
+  {
+   "name": "Kindle Unlimited",
+   "keys": [
+    "kindle",
+    "キンドル"
+   ],
+   "category": "書籍・マンガ",
+   "color": "#232F3E",
+   "plans": [
+    {
+     "plan": "月額",
+     "price": 980,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#FF9900",
+   "domain": "kindle.amazon.co.jp"
+  },
+  {
+   "name": "Audible",
+   "keys": [
+    "audible",
+    "オーディブル"
+   ],
+   "category": "書籍・マンガ",
+   "color": "#FFFFFF",
+   "plans": [
+    {
+     "plan": "月額",
+     "price": 1500,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#F7991C",
+   "domain": "audible.co.jp"
+  },
+  {
+   "name": "ChatGPT",
+   "keys": [
+    "chatgpt",
+    "チャットgpt",
+    "openai",
+    "chatgpt plus",
+    "gpt"
+   ],
+   "category": "AI・仕事効率化",
+   "color": "#FFFFFF",
+   "plans": [
+    {
+     "plan": "Go",
+     "price": 8,
+     "cycle": "m"
+    },
+    {
+     "plan": "Plus",
+     "price": 20,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro($100)",
+     "price": 100,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro($200)",
+     "price": 200,
+     "cycle": "m"
+    }
+   ],
+   "cur": "USD",
+   "fg": "#000000",
+   "domain": "chatgpt.com"
+  },
+  {
+   "name": "Claude",
+   "keys": [
+    "claude",
+    "クロード",
+    "anthropic",
+    "claude pro",
+    "claude max"
+   ],
+   "category": "AI・仕事効率化",
+   "color": "#FAF9F5",
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 20,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 200,
+     "cycle": "y"
+    },
+    {
+     "plan": "Max 5x",
+     "price": 100,
+     "cycle": "m"
+    },
+    {
+     "plan": "Max 20x",
+     "price": 200,
+     "cycle": "m"
+    }
+   ],
+   "cur": "USD",
+   "fg": "#D97757",
+   "domain": "claude.ai"
+  },
+  {
+   "name": "Dropbox",
+   "keys": [
+    "dropbox",
+    "ドロップボックス"
+   ],
+   "category": "クラウド・ストレージ",
+   "color": "#FFFFFF",
+   "plans": [],
+   "cur": "USD",
+   "fg": "#0061FF",
+   "domain": "dropbox.com"
+  },
+  {
+   "name": "Adobe Creative Cloud",
+   "keys": [
+    "adobe",
+    "アドビ",
+    "photoshop",
+    "illustrator",
+    "creative cloud",
+    "cc"
+   ],
+   "category": "デザイン・制作",
+   "color": "#FA0F00",
+   "plans": [
+    {
+     "plan": "Creative Cloud Pro 年間(月々払い)",
+     "price": 9080,
+     "cycle": "m"
+    },
+    {
+     "plan": "Creative Cloud Pro 年間(一括払い)",
+     "price": 102960,
+     "cycle": "y"
+    },
+    {
+     "plan": "Creative Cloud Pro 月々プラン",
+     "price": 14480,
+     "cycle": "m"
+    }
+   ],
+   "fg": "#FFFFFF",
+   "domain": "adobe.com"
+  },
+  {
+   "name": "Canva",
+   "keys": [
+    "canva",
+    "キャンバ",
+    "canva pro"
+   ],
+   "category": "デザイン・制作",
+   "color": "#7D2AE8",
+   "plans": [],
+   "fg": "#FFFFFF",
+   "domain": "canva.com"
+  },
+  {
+   "name": "GitHub Copilot",
+   "keys": [
+    "copilot",
+    "コパイロット"
+   ],
+   "category": "AI・仕事効率化",
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 10,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 100,
+     "cycle": "y"
+    },
+    {
+     "plan": "Pro+",
+     "price": 39,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro+ 年額",
+     "price": 390,
+     "cycle": "y"
+    }
+   ],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#181717",
+   "domain": "github.com"
+  },
+  {
+   "name": "Cursor",
+   "keys": [
+    "カーソル"
+   ],
+   "category": "AI・仕事効率化",
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 20,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro+",
+     "price": 60,
+     "cycle": "m"
+    },
+    {
+     "plan": "Ultra",
+     "price": 200,
+     "cycle": "m"
+    }
+   ],
+   "cur": "USD",
+   "color": "#000000",
+   "fg": "#FFFFFF",
+   "domain": "cursor.com"
+  },
+  {
+   "name": "Midjourney",
+   "keys": [
+    "ミッドジャーニー"
+   ],
+   "category": "AI・仕事効率化",
+   "plans": [
+    {
+     "plan": "Basic",
+     "price": 10,
+     "cycle": "m"
+    },
+    {
+     "plan": "Basic 年額",
+     "price": 96,
+     "cycle": "y"
+    },
+    {
+     "plan": "Standard",
+     "price": 30,
+     "cycle": "m"
+    },
+    {
+     "plan": "Standard 年額",
+     "price": 288,
+     "cycle": "y"
+    },
+    {
+     "plan": "Pro",
+     "price": 60,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 576,
+     "cycle": "y"
+    },
+    {
+     "plan": "Mega",
+     "price": 120,
+     "cycle": "m"
+    },
+    {
+     "plan": "Mega 年額",
+     "price": 1152,
+     "cycle": "y"
+    }
+   ],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#000000",
+   "domain": "midjourney.com"
+  },
+  {
+   "name": "Perplexity",
+   "keys": [
+    "perplexity pro",
+    "パープレキシティ"
+   ],
+   "category": "AI・仕事効率化",
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 20,
+     "cycle": "m"
+    },
+    {
+     "plan": "Max",
+     "price": 200,
+     "cycle": "m"
+    }
+   ],
+   "cur": "USD",
+   "color": "#1F1F1F",
+   "fg": "#20B8CD",
+   "domain": "perplexity.ai"
+  },
+  {
+   "name": "ElevenLabs",
+   "keys": [
+    "イレブンラボ"
+   ],
+   "category": "AI・仕事効率化",
+   "plans": [
+    {
+     "plan": "Starter",
+     "price": 6,
+     "cycle": "m"
+    },
+    {
+     "plan": "Creator",
+     "price": 22,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro",
+     "price": 99,
+     "cycle": "m"
+    }
+   ],
+   "cur": "USD",
+   "color": "#000000",
+   "fg": "#FFFFFF",
+   "domain": "elevenlabs.io"
+  },
+  {
+   "name": "Grammarly",
+   "keys": [
+    "グラマリー"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 30,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 144,
+     "cycle": "y"
+    }
+   ],
+   "cur": "USD",
+   "color": "#15C39A",
+   "fg": "#FFFFFF",
+   "domain": "grammarly.com"
+  },
+  {
+   "name": "Google Gemini",
+   "keys": [
+    "gemini",
+    "ジェミニ",
+    "google ai pro"
+   ],
+   "category": "AI・仕事効率化",
+   "plans": [
+    {
+     "plan": "Google AI Plus",
+     "price": 725,
+     "cycle": "m"
+    },
+    {
+     "plan": "Google AI Pro",
+     "price": 2900,
+     "cycle": "m"
+    }
+   ],
+   "color": "#FFFFFF",
+   "fg": "#4796E3",
+   "domain": "gemini.google.com"
+  },
+  {
+   "name": "Apple Fitness+",
+   "keys": [
+    "apple fitness",
+    "フィットネスプラス"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [
+    {
+     "plan": "月額",
+     "price": 980,
+     "cycle": "m"
+    },
+    {
+     "plan": "年額",
+     "price": 7800,
+     "cycle": "y"
+    }
+   ],
+   "color": "#000000",
+   "fg": "#A6FF00",
+   "domain": "apple.com"
+  },
+  {
+   "name": "Xbox Game Pass",
+   "keys": [
+    "xbox",
+    "ゲームパス",
+    "game pass"
+   ],
+   "category": "ゲーム",
+   "plans": [
+    {
+     "plan": "Essential",
+     "price": 850,
+     "cycle": "m"
+    },
+    {
+     "plan": "Premium",
+     "price": 1300,
+     "cycle": "m"
+    },
+    {
+     "plan": "Ultimate",
+     "price": 2750,
+     "cycle": "m"
+    }
+   ],
+   "color": "#107C10",
+   "fg": "#FFFFFF",
+   "domain": "xbox.com"
+  },
+  {
+   "name": "AWA",
+   "keys": [
+    "アワ"
+   ],
+   "category": "音楽",
+   "plans": [
+    {
+     "plan": "Standard",
+     "price": 980,
+     "cycle": "m"
+    },
+    {
+     "plan": "学割",
+     "price": 480,
+     "cycle": "m"
+    }
+   ],
+   "color": "#000000",
+   "fg": "#FFFFFF",
+   "domain": "awa.fm"
+  },
+  {
+   "name": "楽天ミュージック",
+   "keys": [
+    "rakuten music",
+    "楽天music"
+   ],
+   "category": "音楽",
+   "plans": [
+    {
+     "plan": "楽天カード・モバイル会員",
+     "price": 780,
+     "cycle": "m"
+    },
+    {
+     "plan": "一般",
+     "price": 980,
+     "cycle": "m"
+    }
+   ],
+   "color": "#FFFFFF",
+   "fg": "#BF0000",
+   "yomi": "らくてんみゅーじっく",
+   "domain": "music.rakuten.co.jp"
+  },
+  {
+   "name": "dヒッツ",
+   "keys": [
+    "dhits",
+    "ディーヒッツ"
+   ],
+   "category": "音楽",
+   "plans": [
+    {
+     "plan": "ベーシック",
+     "price": 330,
+     "cycle": "m"
+    },
+    {
+     "plan": "スタンダード",
+     "price": 690,
+     "cycle": "m"
+    }
+   ],
+   "color": "#CC0033",
+   "fg": "#FFFFFF",
+   "domain": "dhits.docomo.ne.jp"
+  },
+  {
+   "name": "dマガジン",
+   "keys": [
+    "dmagazine",
+    "ディーマガジン"
+   ],
+   "category": "ニュース・雑誌",
+   "plans": [
+    {
+     "plan": "月額",
+     "price": 580,
+     "cycle": "m"
+    }
+   ],
+   "color": "#CC0033",
+   "fg": "#FFFFFF",
+   "domain": "magazine.dmkt-sp.jp"
+  },
+  {
+   "name": "楽天マガジン",
+   "keys": [
+    "rakuten magazine"
+   ],
+   "category": "ニュース・雑誌",
+   "plans": [
+    {
+     "plan": "月額",
+     "price": 572,
+     "cycle": "m"
+    },
+    {
+     "plan": "年額",
+     "price": 5500,
+     "cycle": "y"
+    }
+   ],
+   "color": "#FFFFFF",
+   "fg": "#BF0000",
+   "yomi": "らくてんまがじん",
+   "domain": "magazine.rakuten.co.jp"
+  },
+  {
+   "name": "ブック放題",
+   "keys": [
+    "bookhoudai"
+   ],
+   "category": "書籍・マンガ",
+   "plans": [
+    {
+     "plan": "月額",
+     "price": 550,
+     "cycle": "m"
+    }
+   ],
+   "color": "#3AAA35",
+   "fg": "#FFFFFF",
+   "domain": "bookhodai.jp"
+  },
+  {
+   "name": "ブックパス",
+   "keys": [
+    "auブックパス",
+    "bookpass"
+   ],
+   "category": "書籍・マンガ",
+   "plans": [
+    {
+     "plan": "マガジンコース",
+     "price": 418,
+     "cycle": "m"
+    },
+    {
+     "plan": "総合コース",
+     "price": 618,
+     "cycle": "m"
+    }
+   ],
+   "color": "#EB5505",
+   "fg": "#FFFFFF",
+   "domain": "bookpass.auone.jp"
+  },
+  {
+   "name": "コミックシーモア",
+   "keys": [
+    "シーモア",
+    "cmoa"
+   ],
+   "category": "書籍・マンガ",
+   "plans": [
+    {
+     "plan": "読み放題ライト",
+     "price": 780,
+     "cycle": "m"
+    },
+    {
+     "plan": "読み放題フル",
+     "price": 1480,
+     "cycle": "m"
+    }
+   ],
+   "color": "#FF6A00",
+   "fg": "#FFFFFF",
+   "domain": "cmoa.jp"
+  },
+  {
+   "name": "ahamo",
+   "keys": [
+    "アハモ"
+   ],
+   "category": "通信",
+   "plans": [
+    {
+     "plan": "30GB",
+     "price": 2970,
+     "cycle": "m"
+    },
+    {
+     "plan": "110GB",
+     "price": 4950,
+     "cycle": "m"
+    }
+   ],
+   "color": "#FFFFFF",
+   "fg": "#000000",
+   "domain": "ahamo.com"
+  },
+  {
+   "name": "LINEMO",
+   "keys": [
+    "ラインモ"
+   ],
+   "category": "通信",
+   "plans": [
+    {
+     "plan": "ベストプラン 3GB以下",
+     "price": 990,
+     "cycle": "m"
+    },
+    {
+     "plan": "ベストプラン 3〜15GB",
+     "price": 2090,
+     "cycle": "m"
+    },
+    {
+     "plan": "ベストプランV 30GB",
+     "price": 2970,
+     "cycle": "m"
+    }
+   ],
+   "color": "#FFFFFF",
+   "fg": "#06C755",
+   "domain": "linemo.jp"
+  },
+  {
+   "name": "楽天モバイル",
+   "keys": [
+    "rakuten mobile",
+    "楽天モバ"
+   ],
+   "category": "通信",
+   "plans": [
+    {
+     "plan": "3GB以下",
+     "price": 1078,
+     "cycle": "m"
+    },
+    {
+     "plan": "3GB超〜20GB",
+     "price": 2178,
+     "cycle": "m"
+    },
+    {
+     "plan": "20GB超〜無制限",
+     "price": 3278,
+     "cycle": "m"
+    }
+   ],
+   "color": "#E5007F",
+   "fg": "#FFFFFF",
+   "yomi": "らくてんもばいる",
+   "domain": "network.mobile.rakuten.co.jp"
+  },
+  {
+   "name": "IIJmio",
+   "keys": [
+    "iij",
+    "アイアイジェイ"
+   ],
+   "category": "通信",
+   "plans": [
+    {
+     "plan": "2GB",
+     "price": 850,
+     "cycle": "m"
+    },
+    {
+     "plan": "5GB",
+     "price": 950,
+     "cycle": "m"
+    },
+    {
+     "plan": "10GB",
+     "price": 1400,
+     "cycle": "m"
+    },
+    {
+     "plan": "15GB",
+     "price": 1800,
+     "cycle": "m"
+    },
+    {
+     "plan": "25GB",
+     "price": 2000,
+     "cycle": "m"
+    }
+   ],
+   "color": "#4B4FA8",
+   "fg": "#FFFFFF",
+   "domain": "iijmio.jp"
+  },
+  {
+   "name": "povo",
+   "keys": [
+    "ポヴォ",
+    "povo2.0"
+   ],
+   "category": "通信",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#333333",
+   "domain": "povo.jp"
+  },
+  {
+   "name": "Pairs",
+   "keys": [
+    "ペアーズ"
+   ],
+   "category": "マッチング",
+   "plans": [
+    {
+     "plan": "1か月プラン",
+     "price": 3700,
+     "cycle": "m"
+    }
+   ],
+   "color": "#13C1CE",
+   "fg": "#FFFFFF",
+   "domain": "pairs.lv"
+  },
+  {
+   "name": "tapple",
+   "keys": [
+    "タップル"
+   ],
+   "category": "マッチング",
+   "plans": [
+    {
+     "plan": "1か月プラン(Web)",
+     "price": 3700,
+     "cycle": "m"
+    }
+   ],
+   "color": "#FF5A8A",
+   "fg": "#FFFFFF",
+   "domain": "tapple.me"
+  },
+  {
+   "name": "with",
+   "keys": [
+    "ウィズ"
+   ],
+   "category": "マッチング",
+   "plans": [
+    {
+     "plan": "1か月プラン(カード)",
+     "price": 3600,
+     "cycle": "m"
+    }
+   ],
+   "color": "#F56A6A",
+   "fg": "#FFFFFF",
+   "domain": "with.is"
+  },
+  {
+   "name": "Omiai",
+   "keys": [
+    "オミアイ"
+   ],
+   "category": "マッチング",
+   "plans": [
+    {
+     "plan": "1か月プラン(カード)",
+     "price": 3900,
+     "cycle": "m"
+    },
+    {
+     "plan": "1か月プラン(アプリ内課金)",
+     "price": 4900,
+     "cycle": "m"
+    }
+   ],
+   "color": "#FFFFFF",
+   "fg": "#E43D8C",
+   "domain": "omiai-jp.com"
+  },
+  {
+   "name": "DMM英会話",
+   "keys": [
+    "dmm eikaiwa"
+   ],
+   "category": "学習",
+   "plans": [
+    {
+     "plan": "毎月8レッスン",
+     "price": 4880,
+     "cycle": "m"
+    },
+    {
+     "plan": "毎日1レッスン",
+     "price": 6980,
+     "cycle": "m"
+    },
+    {
+     "plan": "毎日2レッスン",
+     "price": 11980,
+     "cycle": "m"
+    },
+    {
+     "plan": "毎日4レッスン",
+     "price": 19980,
+     "cycle": "m"
+    }
+   ],
+   "color": "#FFFFFF",
+   "fg": "#000000",
+   "domain": "eikaiwa.dmm.com"
+  },
+  {
+   "name": "レアジョブ英会話",
+   "keys": [
+    "rarejob",
+    "レアジョブ"
+   ],
+   "category": "学習",
+   "plans": [
+    {
+     "plan": "日常英会話 月8回",
+     "price": 4980,
+     "cycle": "m"
+    },
+    {
+     "plan": "日常英会話 毎日25分",
+     "price": 7980,
+     "cycle": "m"
+    },
+    {
+     "plan": "ビジネス英会話 毎日25分",
+     "price": 12980,
+     "cycle": "m"
+    }
+   ],
+   "color": "#FFFFFF",
+   "fg": "#8CC63F",
+   "domain": "rarejob.com"
+  },
+  {
+   "name": "NativeCamp",
+   "keys": [
+    "ネイティブキャンプ",
+    "ネイキャン"
+   ],
+   "category": "学習",
+   "plans": [
+    {
+     "plan": "プレミアムプラン",
+     "price": 7480,
+     "cycle": "m"
+    },
+    {
+     "plan": "ファミリープラン(1人あたり)",
+     "price": 1980,
+     "cycle": "m"
+    }
+   ],
+   "color": "#002A4E",
+   "fg": "#F7A600",
+   "domain": "nativecamp.net"
+  },
+  {
+   "name": "LYPプレミアム",
+   "keys": [
+    "yahoo!プレミアム",
+    "yahooプレミアム",
+    "ヤフープレミアム",
+    "lyp"
+   ],
+   "category": "その他",
+   "plans": [
+    {
+     "plan": "Web申込",
+     "price": 508,
+     "cycle": "m"
+    },
+    {
+     "plan": "LINEアプリ内申込",
+     "price": 650,
+     "cycle": "m"
+    }
+   ],
+   "color": "#FFFFFF",
+   "fg": "#FF0033",
+   "domain": "lypremium.yahoo.co.jp"
+  },
+  {
+   "name": "アメックス・グリーン",
+   "keys": [
+    "amex",
+    "アメックス",
+    "american express"
+   ],
+   "category": "クレジットカード",
+   "plans": [
+    {
+     "plan": "年会費",
+     "price": 13200,
+     "cycle": "y"
+    }
+   ],
+   "color": "#006FCF",
+   "fg": "#FFFFFF",
+   "domain": "americanexpress.com"
+  },
+  {
+   "name": "ヒルトン・オナーズ アメックス",
+   "keys": [
+    "amex",
+    "ヒルトン",
+    "hilton"
+   ],
+   "category": "クレジットカード",
+   "plans": [
+    {
+     "plan": "年会費",
+     "price": 16500,
+     "cycle": "y"
+    }
+   ],
+   "color": "#006FCF",
+   "fg": "#FFFFFF",
+   "domain": "americanexpress.com"
+  },
+  {
+   "name": "ヒルトン・オナーズ アメックス・プレミアム",
+   "keys": [
+    "amex",
+    "ヒルトン",
+    "hilton"
+   ],
+   "category": "クレジットカード",
+   "plans": [
+    {
+     "plan": "年会費",
+     "price": 66000,
+     "cycle": "y"
+    }
+   ],
+   "color": "#006FCF",
+   "fg": "#FFFFFF",
+   "domain": "americanexpress.com"
+  },
+  {
+   "name": "Notion",
+   "keys": [
+    "ノーション"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#000000",
+   "domain": "notion.so"
+  },
+  {
+   "name": "マネーフォワード ME",
+   "keys": [
+    "マネフォ",
+    "moneyforward"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "domain": "moneyforward.com"
+  },
+  {
+   "name": "Figma",
+   "keys": [
+    "フィグマ"
+   ],
+   "category": "デザイン・制作",
+   "plans": [],
+   "cur": "USD",
+   "color": "#1E1E1E",
+   "fg": "#F24E1E",
+   "domain": "figma.com"
+  },
+  {
+   "name": "Google Workspace",
+   "keys": [
+    "グーグルワークスペース"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "domain": "workspace.google.com"
+  },
+  {
+   "name": "Slack",
+   "keys": [
+    "スラック"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "color": "#4A154B",
+   "fg": "#FFFFFF",
+   "domain": "slack.com"
+  },
+  {
+   "name": "Zoom",
+   "keys": [
+    "ズーム"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "color": "#0B5CFF",
+   "fg": "#FFFFFF",
+   "domain": "zoom.us"
+  },
+  {
+   "name": "マネーフォワード クラウド",
+   "keys": [
+    "マネフォ"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "domain": "biz.moneyforward.com"
+  },
+  {
+   "name": "freee",
+   "keys": [
+    "フリー"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "domain": "freee.co.jp"
+  },
+  {
+   "name": "Zaim",
+   "keys": [
+    "ザイム"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "domain": "zaim.net"
+  },
+  {
+   "name": "1Password",
+   "keys": [
+    "ワンパスワード"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "color": "#1A1A1A",
+   "fg": "#FFFFFF",
+   "domain": "1password.com"
+  },
+  {
+   "name": "Todoist",
+   "keys": [],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#E44332",
+   "domain": "todoist.com"
+  },
+  {
+   "name": "GitHub Pro",
+   "keys": [
+    "github"
+   ],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#181717",
+   "domain": "github.com"
+  },
+  {
+   "name": "JetBrains All Products",
+   "keys": [
+    "jetbrains"
+   ],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "jetbrains.com"
+  },
+  {
+   "name": "Vercel",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "color": "#000000",
+   "fg": "#FFFFFF",
+   "domain": "vercel.com"
+  },
+  {
+   "name": "Supabase",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "color": "#1C1C1C",
+   "fg": "#3ECF8E",
+   "domain": "supabase.com"
+  },
+  {
+   "name": "Heroku",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "color": "#430098",
+   "fg": "#FFFFFF",
+   "domain": "heroku.com"
+  },
+  {
+   "name": "Rakuten TV",
+   "keys": [
+    "楽天tv"
+   ],
+   "category": "動画",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#BF0000",
+   "domain": "tv.rakuten.co.jp"
+  },
+  {
+   "name": "SmartNews",
+   "keys": [
+    "スマートニュース"
+   ],
+   "category": "ニュース・雑誌",
+   "plans": [],
+   "domain": "smartnews.com"
+  },
+  {
+   "name": "Udemy",
+   "keys": [
+    "ユーデミー"
+   ],
+   "category": "学習",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#A435F0",
+   "domain": "udemy.com"
+  },
+  {
+   "name": "Unity",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "unity.com"
+  },
+  {
+   "name": "Raycast",
+   "keys": [],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "domain": "raycast.com"
+  },
+  {
+   "name": "X Premium",
+   "keys": [
+    "twitter",
+    "ツイッター",
+    "エックス"
+   ],
+   "category": "その他",
+   "plans": [],
+   "color": "#000000",
+   "fg": "#FFFFFF",
+   "domain": "x.com"
+  },
+  {
+   "name": "DeepL Pro",
+   "keys": [
+    "deepl",
+    "ディープエル"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "color": "#0F2B46",
+   "fg": "#FFFFFF",
+   "domain": "deepl.com"
+  },
+  {
+   "name": "Notion AI",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#000000",
+   "domain": "notion.so"
+  },
+  {
+   "name": "Runway",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "runwayml.com"
+  },
+  {
+   "name": "v0 by Vercel",
+   "keys": [
+    "v0"
+   ],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "v0.dev"
+  },
+  {
+   "name": "Suno",
+   "keys": [
+    "スーノ"
+   ],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FF5A1F",
+   "fg": "#FFFFFF",
+   "domain": "suno.com"
+  },
+  {
+   "name": "Genspark",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "genspark.ai"
+  },
+  {
+   "name": "Higgsfield",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "higgsfield.ai"
+  },
+  {
+   "name": "Typeless",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "typeless.com"
+  },
+  {
+   "name": "Crunchyroll",
+   "keys": [
+    "クランチロール"
+   ],
+   "category": "動画",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#F47521",
+   "domain": "crunchyroll.com"
+  },
+  {
+   "name": "Cloudflare",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#F38020",
+   "domain": "cloudflare.com"
+  },
+  {
+   "name": "Netlify",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#05BDBA",
+   "domain": "netlify.com"
+  },
+  {
+   "name": "Railway",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "railway.com"
+  },
+  {
+   "name": "Docker",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#1D63ED",
+   "domain": "docker.com"
+  },
+  {
+   "name": "GitLab",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#FC6D26",
+   "domain": "gitlab.com"
+  },
+  {
+   "name": "PlanetScale",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "planetscale.com"
+  },
+  {
+   "name": "Sentry",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "sentry.io"
+  },
+  {
+   "name": "Linear",
+   "keys": [],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "color": "#222326",
+   "fg": "#FFFFFF",
+   "domain": "linear.app"
+  },
+  {
+   "name": "Obsidian Sync",
+   "keys": [
+    "obsidian"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "domain": "obsidian.md"
+  },
+  {
+   "name": "Evernote",
+   "keys": [
+    "エバーノート"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#00A82D",
+   "domain": "evernote.com"
+  },
+  {
+   "name": "Miro",
+   "keys": [],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFD02F",
+   "fg": "#050038",
+   "domain": "miro.com"
+  },
+  {
+   "name": "Bitwarden",
+   "keys": [],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "color": "#175DDC",
+   "fg": "#FFFFFF",
+   "domain": "bitwarden.com"
+  },
+  {
+   "name": "NordVPN",
+   "keys": [
+    "ノードvpn"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#4687FF",
+   "domain": "nordvpn.com"
+  },
+  {
+   "name": "ExpressVPN",
+   "keys": [],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "color": "#DA3940",
+   "fg": "#FFFFFF",
+   "domain": "expressvpn.com"
+  },
+  {
+   "name": "Framer",
+   "keys": [],
+   "category": "デザイン・制作",
+   "plans": [],
+   "cur": "USD",
+   "color": "#000000",
+   "fg": "#FFFFFF",
+   "domain": "framer.com"
+  },
+  {
+   "name": "Sketch",
+   "keys": [],
+   "category": "デザイン・制作",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#F7B500",
+   "domain": "sketch.com"
+  },
+  {
+   "name": "Lottie",
+   "keys": [
+    "lottiefiles"
+   ],
+   "category": "デザイン・制作",
+   "plans": [],
+   "cur": "USD",
+   "domain": "lottiefiles.com"
+  },
+  {
+   "name": "Shopify",
+   "keys": [
+    "ショッピファイ"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#5E8E3E",
+   "domain": "shopify.com"
+  },
+  {
+   "name": "Stripe",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "color": "#635BFF",
+   "fg": "#FFFFFF",
+   "domain": "stripe.com"
+  },
+  {
+   "name": "HubSpot",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#FF7A59",
+   "domain": "hubspot.com"
+  },
+  {
+   "name": "Mailchimp",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFE01B",
+   "fg": "#241C15",
+   "domain": "mailchimp.com"
+  },
+  {
+   "name": "AppleCare+",
+   "keys": [
+    "applecare",
+    "アップルケア"
+   ],
+   "category": "その他",
+   "plans": [],
+   "domain": "apple.com"
+  },
+  {
+   "name": "Duolingo",
+   "keys": [
+    "デュオリンゴ"
+   ],
+   "category": "学習",
+   "plans": [],
+   "color": "#58CC02",
+   "fg": "#FFFFFF",
+   "domain": "duolingo.com"
+  },
+  {
+   "name": "Strava",
+   "keys": [
+    "ストラバ"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "color": "#FC4C02",
+   "fg": "#FFFFFF",
+   "domain": "strava.com"
+  },
+  {
+   "name": "Calm",
+   "keys": [],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "color": "#4B7BE5",
+   "fg": "#FFFFFF",
+   "domain": "calm.com"
+  },
+  {
+   "name": "Chatwork",
+   "keys": [
+    "チャットワーク"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#E4002B",
+   "domain": "chatwork.com"
+  },
+  {
+   "name": "Wix",
+   "keys": [
+    "ウィックス"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "domain": "wix.com"
+  },
+  {
+   "name": "Squarespace",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "squarespace.com"
+  },
+  {
+   "name": "WOWOWオンデマンド",
+   "keys": [
+    "wowow",
+    "ワウワウ"
+   ],
+   "category": "動画",
+   "plans": [],
+   "color": "#003F98",
+   "fg": "#FFFFFF",
+   "domain": "wowow.co.jp"
+  },
+  {
+   "name": "Paramount+",
+   "keys": [
+    "パラマウント"
+   ],
+   "category": "動画",
+   "plans": [],
+   "color": "#0064FF",
+   "fg": "#FFFFFF",
+   "domain": "paramountplus.com"
+  },
+  {
+   "name": "Apple Arcade",
+   "keys": [
+    "アップルアーケード"
+   ],
+   "category": "ゲーム",
+   "plans": [],
+   "color": "#FF3B30",
+   "fg": "#FFFFFF",
+   "domain": "apple.com"
+  },
+  {
+   "name": "Discord Nitro",
+   "keys": [
+    "discord",
+    "ディスコード"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "color": "#5865F2",
+   "fg": "#FFFFFF",
+   "domain": "discord.com"
+  },
+  {
+   "name": "ニコニコプレミアム",
+   "keys": [
+    "niconico",
+    "ニコニコ"
+   ],
+   "category": "動画",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#252525",
+   "domain": "nicovideo.jp"
+  },
+  {
+   "name": "pixiv Premium",
+   "keys": [
+    "pixiv",
+    "ピクシブ"
+   ],
+   "category": "その他",
+   "plans": [],
+   "color": "#0096FA",
+   "fg": "#FFFFFF",
+   "domain": "pixiv.net"
+  },
+  {
+   "name": "LinkedIn Premium",
+   "keys": [
+    "linkedin"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "color": "#0A66C2",
+   "fg": "#FFFFFF",
+   "domain": "linkedin.com"
+  },
+  {
+   "name": "Medium",
+   "keys": [],
+   "category": "ニュース・雑誌",
+   "plans": [],
+   "cur": "USD",
+   "color": "#000000",
+   "fg": "#FFFFFF",
+   "domain": "medium.com"
+  },
+  {
+   "name": "日経電子版",
+   "keys": [
+    "日経",
+    "nikkei"
+   ],
+   "category": "ニュース・雑誌",
+   "plans": [],
+   "color": "#0D2C5E",
+   "fg": "#FFFFFF",
+   "yomi": "にっけいでんしばん",
+   "domain": "nikkei.com"
+  },
+  {
+   "name": "NewsPicks",
+   "keys": [
+    "ニューズピックス"
+   ],
+   "category": "ニュース・雑誌",
+   "plans": [],
+   "color": "#1A1A1A",
+   "fg": "#FFFFFF",
+   "domain": "newspicks.com"
+  },
+  {
+   "name": "note Pro",
+   "keys": [
+    "note"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#000000",
+   "domain": "note.com"
+  },
+  {
+   "name": "Substack",
+   "keys": [],
+   "category": "ニュース・雑誌",
+   "plans": [],
+   "cur": "USD",
+   "domain": "substack.com"
+  },
+  {
+   "name": "Replit",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#F26207",
+   "domain": "replit.com"
+  },
+  {
+   "name": "AWS",
+   "keys": [
+    "amazon web services"
+   ],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "color": "#232F3E",
+   "fg": "#FF9900",
+   "domain": "aws.amazon.com"
+  },
+  {
+   "name": "Render",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "render.com"
+  },
+  {
+   "name": "Fly.io",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "fly.io"
+  },
+  {
+   "name": "Neon",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "neon.tech"
+  },
+  {
+   "name": "Upstash",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "upstash.com"
+  },
+  {
+   "name": "Windsurf",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "windsurf.com"
+  },
+  {
+   "name": "Jasper",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "jasper.ai"
+  },
+  {
+   "name": "Copy.ai",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "copy.ai"
+  },
+  {
+   "name": "Stability AI",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "stability.ai"
+  },
+  {
+   "name": "Leonardo AI",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "leonardo.ai"
+  },
+  {
+   "name": "Kling AI",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "klingai.com"
+  },
+  {
+   "name": "Asana",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#F06A6A",
+   "domain": "asana.com"
+  },
+  {
+   "name": "Monday.com",
+   "keys": [
+    "monday"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "monday.com"
+  },
+  {
+   "name": "ClickUp",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "clickup.com"
+  },
+  {
+   "name": "Airtable",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "airtable.com"
+  },
+  {
+   "name": "Intercom",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "intercom.com"
+  },
+  {
+   "name": "Zendesk",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "zendesk.com"
+  },
+  {
+   "name": "Twilio",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "twilio.com"
+  },
+  {
+   "name": "SendGrid",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "sendgrid.com"
+  },
+  {
+   "name": "Cloudinary",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "cloudinary.com"
+  },
+  {
+   "name": "NHKオンデマンド",
+   "keys": [
+    "nhk"
+   ],
+   "category": "動画",
+   "plans": [],
+   "color": "#F08300",
+   "fg": "#FFFFFF",
+   "domain": "nhk-ondemand.jp"
+  },
+  {
+   "name": "クックパッド プレミアム",
+   "keys": [
+    "クックパッド",
+    "cookpad"
+   ],
+   "category": "その他",
+   "plans": [],
+   "color": "#FF9933",
+   "fg": "#FFFFFF",
+   "domain": "cookpad.com"
+  },
+  {
+   "name": "食べログ プレミアム",
+   "keys": [
+    "食べログ",
+    "tabelog"
+   ],
+   "category": "その他",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#F5A623",
+   "yomi": "たべろぐぷれみあむ",
+   "domain": "tabelog.com"
+  },
+  {
+   "name": "LINEスタンプ プレミアム",
+   "keys": [
+    "lineスタンプ"
+   ],
+   "category": "その他",
+   "plans": [],
+   "color": "#06C755",
+   "fg": "#FFFFFF",
+   "domain": "line.me"
+  },
+  {
+   "name": "Tinder",
+   "keys": [
+    "ティンダー"
+   ],
+   "category": "マッチング",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#FE3C72",
+   "domain": "tinder.com"
+  },
+  {
+   "name": "スタディサプリ",
+   "keys": [
+    "スタサプ",
+    "studysapuri"
+   ],
+   "category": "学習",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#1D3E8B",
+   "domain": "studysapuri.jp"
+  },
+  {
+   "name": "Schoo",
+   "keys": [
+    "スクー"
+   ],
+   "category": "学習",
+   "plans": [],
+   "domain": "schoo.jp"
+  },
+  {
+   "name": "Zapier",
+   "keys": [
+    "ザピアー"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FF4F00",
+   "fg": "#FFFFFF",
+   "domain": "zapier.com"
+  },
+  {
+   "name": "Make",
+   "keys": [
+    "make.com"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "make.com"
+  },
+  {
+   "name": "Loom",
+   "keys": [],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "domain": "loom.com"
+  },
+  {
+   "name": "Calendly",
+   "keys": [],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "domain": "calendly.com"
+  },
+  {
+   "name": "Trello",
+   "keys": [
+    "トレロ"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "color": "#0C66E4",
+   "fg": "#FFFFFF",
+   "domain": "trello.com"
+  },
+  {
+   "name": "Dashlane",
+   "keys": [],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "domain": "dashlane.com"
+  },
+  {
+   "name": "LastPass",
+   "keys": [],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "domain": "lastpass.com"
+  },
+  {
+   "name": "Proton Mail",
+   "keys": [
+    "protonmail"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "domain": "proton.me"
+  },
+  {
+   "name": "Proton VPN",
+   "keys": [
+    "protonvpn"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "domain": "protonvpn.com"
+  },
+  {
+   "name": "Surfshark",
+   "keys": [],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "cur": "USD",
+   "domain": "surfshark.com"
+  },
+  {
+   "name": "ESET",
+   "keys": [
+    "イーセット"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "color": "#0096A1",
+   "fg": "#FFFFFF",
+   "domain": "eset.com"
+  },
+  {
+   "name": "ノートン 360",
+   "keys": [
+    "norton",
+    "ノートン"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#FFC300",
+   "domain": "norton.com"
+  },
+  {
+   "name": "Lightroom",
+   "keys": [
+    "ライトルーム",
+    "adobe"
+   ],
+   "category": "デザイン・制作",
+   "plans": [],
+   "color": "#001E36",
+   "fg": "#31A8FF",
+   "domain": "adobe.com"
+  },
+  {
+   "name": "VSCO",
+   "keys": [],
+   "category": "デザイン・制作",
+   "plans": [],
+   "domain": "vsco.co"
+  },
+  {
+   "name": "CapCut Pro",
+   "keys": [
+    "capcut",
+    "キャップカット"
+   ],
+   "category": "デザイン・制作",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#000000",
+   "domain": "capcut.com"
+  },
+  {
+   "name": "DaVinci Resolve Studio",
+   "keys": [
+    "davinci",
+    "ダビンチ"
+   ],
+   "category": "デザイン・制作",
+   "plans": [],
+   "domain": "blackmagicdesign.com"
+  },
+  {
+   "name": "めちゃコミック",
+   "keys": [
+    "めちゃコミ"
+   ],
+   "category": "書籍・マンガ",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#E4007F",
+   "domain": "mechacomic.jp"
+  },
+  {
+   "name": "ピッコマ",
+   "keys": [
+    "piccoma"
+   ],
+   "category": "書籍・マンガ",
+   "plans": [],
+   "color": "#FFC800",
+   "fg": "#000000",
+   "domain": "piccoma.com"
+  },
+  {
+   "name": "Twitch Turbo",
+   "keys": [
+    "twitch",
+    "ツイッチ"
+   ],
+   "category": "動画",
+   "plans": [],
+   "cur": "USD",
+   "color": "#9146FF",
+   "fg": "#FFFFFF",
+   "domain": "twitch.tv"
+  },
+  {
+   "name": "Kit",
+   "keys": [
+    "convertkit"
+   ],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "kit.com"
+  },
+  {
+   "name": "beehiiv",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "beehiiv.com"
+  },
+  {
+   "name": "Namecheap",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "namecheap.com"
+  },
+  {
+   "name": "エックスサーバー",
+   "keys": [
+    "xserver"
+   ],
+   "category": "開発",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#0E1E3F",
+   "domain": "xserver.ne.jp"
+  },
+  {
+   "name": "ConoHa WING",
+   "keys": [
+    "conoha",
+    "コノハ"
+   ],
+   "category": "開発",
+   "plans": [],
+   "color": "#00BFD6",
+   "fg": "#FFFFFF",
+   "domain": "conoha.jp"
+  },
+  {
+   "name": "Hotjar",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "hotjar.com"
+  },
+  {
+   "name": "Ahrefs",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "ahrefs.com"
+  },
+  {
+   "name": "Semrush",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "semrush.com"
+  },
+  {
+   "name": "Headspace",
+   "keys": [
+    "ヘッドスペース"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#FF7E1D",
+   "domain": "headspace.com"
+  },
+  {
+   "name": "MyFitnessPal",
+   "keys": [],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "domain": "myfitnesspal.com"
+  },
+  {
+   "name": "Buffer",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "buffer.com"
+  },
+  {
+   "name": "Hootsuite",
+   "keys": [],
+   "category": "ビジネス",
+   "plans": [],
+   "cur": "USD",
+   "domain": "hootsuite.com"
+  },
+  {
+   "name": "Lovable",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FF4F6E",
+   "fg": "#FFFFFF",
+   "domain": "lovable.dev"
+  },
+  {
+   "name": "Bolt",
+   "keys": [
+    "bolt.new"
+   ],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "bolt.new"
+  },
+  {
+   "name": "Dify",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "dify.ai"
+  },
+  {
+   "name": "OpenRouter",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "openrouter.ai"
+  },
+  {
+   "name": "Replicate",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "replicate.com"
+  },
+  {
+   "name": "Webflow",
+   "keys": [],
+   "category": "デザイン・制作",
+   "plans": [],
+   "cur": "USD",
+   "color": "#146EF5",
+   "fg": "#FFFFFF",
+   "domain": "webflow.com"
+  },
+  {
+   "name": "WordPress.com",
+   "keys": [
+    "wordpress",
+    "ワードプレス"
+   ],
+   "category": "開発",
+   "plans": [],
+   "color": "#3858E9",
+   "fg": "#FFFFFF",
+   "domain": "wordpress.com"
+  },
+  {
+   "name": "Uber Eats Uber One",
+   "keys": [
+    "uber eats",
+    "ウーバーイーツ",
+    "uber one"
+   ],
+   "category": "食品・宅配",
+   "plans": [],
+   "color": "#06C167",
+   "fg": "#000000",
+   "domain": "ubereats.com"
+  },
+  {
+   "name": "出前館",
+   "keys": [
+    "demaecan"
+   ],
+   "category": "食品・宅配",
+   "plans": [],
+   "color": "#E83A3A",
+   "fg": "#FFFFFF",
+   "yomi": "でまえかん",
+   "domain": "demae-can.com"
+  },
+  {
+   "name": "Aqua Voice",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "withaqua.com"
+  },
+  {
+   "name": "Seedance",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD"
+  },
+  {
+   "name": "SPOTV NOW",
+   "keys": [
+    "spotv"
+   ],
+   "category": "動画",
+   "plans": [],
+   "domain": "spotvnow.jp"
+  },
+  {
+   "name": "まんが王国",
+   "keys": [],
+   "category": "書籍・マンガ",
+   "plans": [],
+   "domain": "comic.k-manga.jp"
+  },
+  {
+   "name": "flier",
+   "keys": [
+    "フライヤー"
+   ],
+   "category": "書籍・マンガ",
+   "plans": [],
+   "domain": "flierinc.com"
+  },
+  {
+   "name": "GLOBIS学び放題",
+   "keys": [
+    "グロービス",
+    "globis"
+   ],
+   "category": "学習",
+   "plans": [],
+   "domain": "unlimited.globis.co.jp"
+  },
+  {
+   "name": "Coursera Plus",
+   "keys": [
+    "coursera",
+    "コーセラ"
+   ],
+   "category": "学習",
+   "plans": [],
+   "cur": "USD",
+   "color": "#0056D2",
+   "fg": "#FFFFFF",
+   "domain": "coursera.org"
+  },
+  {
+   "name": "EA Play",
+   "keys": [],
+   "category": "ゲーム",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#1A5EFF",
+   "domain": "ea.com"
+  },
+  {
+   "name": "GeForce NOW",
+   "keys": [
+    "geforce",
+    "nvidia"
+   ],
+   "category": "ゲーム",
+   "plans": [],
+   "color": "#76B900",
+   "fg": "#FFFFFF",
+   "domain": "nvidia.com"
+  },
+  {
+   "name": "あすけん",
+   "keys": [
+    "asken"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "domain": "asken.jp"
+  },
+  {
+   "name": "Noom",
+   "keys": [
+    "ヌーム"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "domain": "noom.com"
+  },
+  {
+   "name": "ECCオンラインレッスン",
+   "keys": [
+    "ecc"
+   ],
+   "category": "学習",
+   "plans": [],
+   "domain": "online.ecc.co.jp"
+  },
+  {
+   "name": "Cambly",
+   "keys": [
+    "キャンブリー"
+   ],
+   "category": "学習",
+   "plans": [],
+   "domain": "cambly.com"
+  },
+  {
+   "name": "MasterClass",
+   "keys": [],
+   "category": "学習",
+   "plans": [],
+   "cur": "USD",
+   "domain": "masterclass.com"
+  },
+  {
+   "name": "Skillshare",
+   "keys": [],
+   "category": "学習",
+   "plans": [],
+   "cur": "USD",
+   "domain": "skillshare.com"
+  },
+  {
+   "name": "LinkedIn Learning",
+   "keys": [],
+   "category": "学習",
+   "plans": [],
+   "domain": "linkedin.com"
+  },
+  {
+   "name": "Brilliant",
+   "keys": [],
+   "category": "学習",
+   "plans": [],
+   "cur": "USD",
+   "domain": "brilliant.org"
+  },
+  {
+   "name": "Codecademy",
+   "keys": [],
+   "category": "学習",
+   "plans": [],
+   "cur": "USD",
+   "domain": "codecademy.com"
+  },
+  {
+   "name": "Pluralsight",
+   "keys": [],
+   "category": "学習",
+   "plans": [],
+   "cur": "USD",
+   "domain": "pluralsight.com"
+  },
+  {
+   "name": "進研ゼミ高校講座",
+   "keys": [
+    "進研ゼミ",
+    "ベネッセ"
+   ],
+   "category": "学習",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#003F98",
+   "yomi": "しんけんぜみこうこうこうざ",
+   "domain": "benesse.ne.jp"
+  },
+  {
+   "name": "Z会",
+   "keys": [
+    "zkai",
+    "ぜっとかい"
+   ],
+   "category": "学習",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#1B3D92",
+   "domain": "zkai.co.jp"
+  },
+  {
+   "name": "Bumble",
+   "keys": [
+    "バンブル"
+   ],
+   "category": "マッチング",
+   "plans": [],
+   "domain": "bumble.com"
+  },
+  {
+   "name": "Match.com",
+   "keys": [
+    "match"
+   ],
+   "category": "マッチング",
+   "plans": [],
+   "domain": "match.com"
+  },
+  {
+   "name": "SoundCloud Go+",
+   "keys": [
+    "soundcloud",
+    "サウンドクラウド"
+   ],
+   "category": "音楽",
+   "plans": [],
+   "color": "#FF5500",
+   "fg": "#FFFFFF",
+   "domain": "soundcloud.com"
+  },
+  {
+   "name": "TIDAL",
+   "keys": [],
+   "category": "音楽",
+   "plans": [],
+   "cur": "USD",
+   "domain": "tidal.com"
+  },
+  {
+   "name": "Deezer",
+   "keys": [],
+   "category": "音楽",
+   "plans": [],
+   "cur": "USD",
+   "domain": "deezer.com"
+  },
+  {
+   "name": "Vimeo",
+   "keys": [],
+   "category": "デザイン・制作",
+   "plans": [],
+   "cur": "USD",
+   "domain": "vimeo.com"
+  },
+  {
+   "name": "Plex Pass",
+   "keys": [
+    "plex"
+   ],
+   "category": "動画",
+   "plans": [],
+   "cur": "USD",
+   "color": "#1F1F1F",
+   "fg": "#E5A00D",
+   "domain": "plex.tv"
+  },
+  {
+   "name": "Snapchat+",
+   "keys": [
+    "snapchat"
+   ],
+   "category": "その他",
+   "plans": [],
+   "color": "#FFFC00",
+   "fg": "#000000",
+   "domain": "snapchat.com"
+  },
+  {
+   "name": "Telegram Premium",
+   "keys": [
+    "telegram"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "color": "#2AABEE",
+   "fg": "#FFFFFF",
+   "domain": "telegram.org"
+  },
+  {
+   "name": "バンダイチャンネル",
+   "keys": [
+    "bandai"
+   ],
+   "category": "動画",
+   "plans": [],
+   "domain": "b-ch.com"
+  },
+  {
+   "name": "ClassPass",
+   "keys": [],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "cur": "USD",
+   "domain": "classpass.com"
+  },
+  {
+   "name": "Peloton App",
+   "keys": [
+    "peloton"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "cur": "USD",
+   "domain": "onepeloton.com"
+  },
+  {
+   "name": "Adobe Stock",
+   "keys": [],
+   "category": "デザイン・制作",
+   "plans": [],
+   "domain": "stock.adobe.com"
+  },
+  {
+   "name": "Shutterstock",
+   "keys": [],
+   "category": "デザイン・制作",
+   "plans": [],
+   "cur": "USD",
+   "domain": "shutterstock.com"
+  },
+  {
+   "name": "Envato Elements",
+   "keys": [
+    "envato"
+   ],
+   "category": "デザイン・制作",
+   "plans": [],
+   "cur": "USD",
+   "domain": "envato.com"
+  },
+  {
+   "name": "Frame.io",
+   "keys": [],
+   "category": "デザイン・制作",
+   "plans": [],
+   "cur": "USD",
+   "domain": "frame.io"
+  },
+  {
+   "name": "Excalidraw+",
+   "keys": [
+    "excalidraw"
+   ],
+   "category": "デザイン・制作",
+   "plans": [],
+   "cur": "USD",
+   "domain": "excalidraw.com"
+  },
+  {
+   "name": "Patreon",
+   "keys": [
+    "パトレオン"
+   ],
+   "category": "その他",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#000000",
+   "domain": "patreon.com"
+  },
+  {
+   "name": "TradingView",
+   "keys": [
+    "トレーディングビュー"
+   ],
+   "category": "金融・投資",
+   "plans": [],
+   "cur": "USD",
+   "color": "#131722",
+   "fg": "#FFFFFF",
+   "domain": "tradingview.com"
+  },
+  {
+   "name": "Bloomberg",
+   "keys": [
+    "ブルームバーグ"
+   ],
+   "category": "ニュース・雑誌",
+   "plans": [],
+   "cur": "USD",
+   "color": "#000000",
+   "fg": "#FFFFFF",
+   "domain": "bloomberg.com"
+  },
+  {
+   "name": "Wall Street Journal",
+   "keys": [
+    "wsj"
+   ],
+   "category": "ニュース・雑誌",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#000000",
+   "domain": "wsj.com"
+  },
+  {
+   "name": "New York Times",
+   "keys": [
+    "nyt",
+    "ニューヨークタイムズ"
+   ],
+   "category": "ニュース・雑誌",
+   "plans": [],
+   "cur": "USD",
+   "color": "#FFFFFF",
+   "fg": "#000000",
+   "domain": "nytimes.com"
+  },
+  {
+   "name": "Datadog",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "datadoghq.com"
+  },
+  {
+   "name": "Apple Developer Program",
+   "keys": [
+    "apple developer"
+   ],
+   "category": "開発",
+   "plans": [],
+   "domain": "developer.apple.com"
+  },
+  {
+   "name": "Logo.dev",
+   "keys": [],
+   "category": "開発",
+   "plans": [],
+   "cur": "USD",
+   "domain": "logo.dev"
+  },
+  {
+   "name": "Mullvad VPN",
+   "keys": [
+    "mullvad"
+   ],
+   "category": "ツール・セキュリティ",
+   "plans": [],
+   "domain": "mullvad.net"
+  },
+  {
+   "name": "チケプラ Trade Premium",
+   "keys": [
+    "チケプラ"
+   ],
+   "category": "その他",
+   "plans": [],
+   "domain": "tixplus.jp"
+  },
+  {
+   "name": "dバリューパス",
+   "keys": [
+    "docomo",
+    "dポイント"
+   ],
+   "category": "その他",
+   "plans": [],
+   "color": "#CC0033",
+   "fg": "#FFFFFF",
+   "domain": "docomo.ne.jp"
+  },
+  {
+   "name": "Pontaパス",
+   "keys": [
+    "ponta",
+    "auスマートパス"
+   ],
+   "category": "その他",
+   "plans": [],
+   "color": "#EB5505",
+   "fg": "#FFFFFF",
+   "domain": "pontapass.auone.jp"
+  },
+  {
+   "name": "Amazon Kids+",
+   "keys": [
+    "amazon kids",
+    "キッズプラス"
+   ],
+   "category": "書籍・マンガ",
+   "plans": [],
+   "color": "#232F3E",
+   "fg": "#FF9900",
+   "domain": "amazon.co.jp"
+  },
+  {
+   "name": "進研ゼミ小学講座",
+   "keys": [
+    "進研ゼミ",
+    "チャレンジ",
+    "ベネッセ"
+   ],
+   "category": "学習",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#003F98",
+   "yomi": "しんけんぜみしょうがくこうざ",
+   "domain": "benesse.ne.jp"
+  },
+  {
+   "name": "スマイルゼミ",
+   "keys": [],
+   "category": "学習",
+   "plans": [],
+   "domain": "smile-zemi.jp"
+  },
+  {
+   "name": "チャレンジタッチ",
+   "keys": [
+    "進研ゼミ",
+    "ベネッセ"
+   ],
+   "category": "学習",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#003F98",
+   "domain": "benesse.ne.jp"
+  },
+  {
+   "name": "週刊少年マガジン 定期購読",
+   "keys": [
+    "マガジン"
+   ],
+   "category": "書籍・マンガ",
+   "plans": [],
+   "yomi": "しゅうかんしょうねんまがじん",
+   "domain": "kodansha.co.jp"
+  },
+  {
+   "name": "My Little Box",
+   "keys": [],
+   "category": "暮らし・ファッション",
+   "plans": [],
+   "domain": "mylittlebox.jp"
+  },
+  {
+   "name": "PostCoffee",
+   "keys": [
+    "ポストコーヒー"
+   ],
+   "category": "食品・宅配",
+   "plans": [],
+   "domain": "postcoffee.co"
+  },
+  {
+   "name": "Bloomee",
+   "keys": [
+    "ブルーミー"
+   ],
+   "category": "暮らし・ファッション",
+   "plans": [],
+   "domain": "bloomee.jp"
+  },
+  {
+   "name": "PETOKOTO FOODS",
+   "keys": [
+    "ペトコト"
+   ],
+   "category": "食品・宅配",
+   "plans": [],
+   "domain": "foods.petokoto.com"
+  },
+  {
+   "name": "GREEN SPOON",
+   "keys": [
+    "グリーンスプーン"
+   ],
+   "category": "食品・宅配",
+   "plans": [],
+   "domain": "greenspoon.jp"
+  },
+  {
+   "name": "nosh",
+   "keys": [
+    "ナッシュ"
+   ],
+   "category": "食品・宅配",
+   "plans": [],
+   "domain": "nosh.jp"
+  },
+  {
+   "name": "Oisix",
+   "keys": [
+    "オイシックス"
+   ],
+   "category": "食品・宅配",
+   "plans": [],
+   "color": "#6E8B3D",
+   "fg": "#FFFFFF",
+   "domain": "oisix.com"
+  },
+  {
+   "name": "KINTO",
+   "keys": [
+    "キント"
+   ],
+   "category": "暮らし・ファッション",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#00708D",
+   "domain": "kinto-jp.com"
+  },
+  {
+   "name": "LUUP",
+   "keys": [
+    "ループ"
+   ],
+   "category": "暮らし・ファッション",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#26B6A6",
+   "domain": "luup.sc"
+  },
+  {
+   "name": "NOREL",
+   "keys": [
+    "ノレル"
+   ],
+   "category": "暮らし・ファッション",
+   "plans": [],
+   "domain": "norel.jp"
+  },
+  {
+   "name": "airCloset",
+   "keys": [
+    "エアークローゼット"
+   ],
+   "category": "暮らし・ファッション",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#E60012",
+   "domain": "air-closet.com"
+  },
+  {
+   "name": "メチャカリ",
+   "keys": [
+    "mechakari"
+   ],
+   "category": "暮らし・ファッション",
+   "plans": [],
+   "domain": "mechakari.com"
+  },
+  {
+   "name": "EDIST. CLOSET",
+   "keys": [
+    "エディストクローゼット"
+   ],
+   "category": "暮らし・ファッション",
+   "plans": [],
+   "domain": "edist.jp"
+  },
+  {
+   "name": "FiNC Premium",
+   "keys": [
+    "finc",
+    "フィンク"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "domain": "finc.com"
+  },
+  {
+   "name": "mederi Pill",
+   "keys": [
+    "メデリ"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "domain": "mederi.jp"
+  },
+  {
+   "name": "スマルナ",
+   "keys": [
+    "smaluna"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "domain": "smaluna.com"
+  },
+  {
+   "name": "クリニックフォア",
+   "keys": [
+    "clinicfor"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "domain": "clinicfor.life"
+  },
+  {
+   "name": "HeyGen",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "heygen.com"
+  },
+  {
+   "name": "Synthesia",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "synthesia.io"
+  },
+  {
+   "name": "Gamma",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "gamma.app"
+  },
+  {
+   "name": "Pika",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "pika.art"
+  },
+  {
+   "name": "Tome",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "tome.app"
+  },
+  {
+   "name": "Tabnine",
+   "keys": [],
+   "category": "AI・仕事効率化",
+   "plans": [],
+   "cur": "USD",
+   "domain": "tabnine.com"
+  },
+  {
+   "name": "Fantia",
+   "keys": [
+    "ファンティア"
+   ],
+   "category": "その他",
+   "plans": [],
+   "domain": "fantia.jp"
+  },
+  {
+   "name": "pixivFANBOX",
+   "keys": [
+    "fanbox",
+    "ファンボックス"
+   ],
+   "category": "その他",
+   "plans": [],
+   "domain": "fanbox.cc"
+  },
+  {
+   "name": "Bizmates",
+   "keys": [
+    "ビズメイツ"
+   ],
+   "category": "学習",
+   "plans": [],
+   "domain": "bizmates.jp"
+  },
+  {
+   "name": "Kimini英会話",
+   "keys": [
+    "kimini"
+   ],
+   "category": "学習",
+   "plans": [],
+   "domain": "kimini.online"
+  },
+  {
+   "name": "NOVA お茶の間留学",
+   "keys": [
+    "nova"
+   ],
+   "category": "学習",
+   "plans": [],
+   "domain": "nova.co.jp"
+  },
+  {
+   "name": "進研ゼミ中学講座",
+   "keys": [
+    "進研ゼミ",
+    "ベネッセ"
+   ],
+   "category": "学習",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#003F98",
+   "yomi": "しんけんぜみちゅうがくこうざ",
+   "domain": "benesse.ne.jp"
+  },
+  {
+   "name": "SOELU",
+   "keys": [
+    "ソエル"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "domain": "soelu.com"
+  },
+  {
+   "name": "LEAN BODY",
+   "keys": [
+    "リーンボディ"
+   ],
+   "category": "フィットネス・健康",
+   "plans": [],
+   "domain": "lean-body.jp"
+  },
+  {
+   "name": "radikoプレミアム",
+   "keys": [
+    "radiko",
+    "ラジコ"
+   ],
+   "category": "音楽",
+   "plans": [],
+   "color": "#00A0E9",
+   "fg": "#FFFFFF",
+   "domain": "radiko.jp"
+  },
+  {
+   "name": "Backblaze",
+   "keys": [],
+   "category": "クラウド・ストレージ",
+   "plans": [],
+   "cur": "USD",
+   "domain": "backblaze.com"
+  },
+  {
+   "name": "pCloud",
+   "keys": [],
+   "category": "クラウド・ストレージ",
+   "plans": [],
+   "domain": "pcloud.com"
+  },
+  {
+   "name": "Sync.com",
+   "keys": [],
+   "category": "クラウド・ストレージ",
+   "plans": [],
+   "cur": "USD",
+   "domain": "sync.com"
+  },
+  {
+   "name": "JAL Wellness & Travel",
+   "keys": [
+    "jal"
+   ],
+   "category": "その他",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#CC0000",
+   "domain": "jal.co.jp"
+  },
+  {
+   "name": "JALモバイル",
+   "keys": [
+    "jal"
+   ],
+   "category": "通信",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#CC0000",
+   "domain": "jal.co.jp"
+  },
+  {
+   "name": "JALカード 普通カード",
+   "keys": [
+    "jal",
+    "jalカード"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#CC0000",
+   "domain": "jal.co.jp"
+  },
+  {
+   "name": "JALカード CLUB-Aカード",
+   "keys": [
+    "jal",
+    "jalカード"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#CC0000",
+   "domain": "jal.co.jp"
+  },
+  {
+   "name": "JALカード CLUB-Aゴールドカード",
+   "keys": [
+    "jal",
+    "jalカード"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#CC0000",
+   "domain": "jal.co.jp"
+  },
+  {
+   "name": "アメックス・ゴールド・プリファード",
+   "keys": [
+    "amex",
+    "アメックス"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#006FCF",
+   "fg": "#FFFFFF",
+   "domain": "americanexpress.com"
+  },
+  {
+   "name": "アメックス・プラチナ",
+   "keys": [
+    "amex",
+    "アメックス"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#006FCF",
+   "fg": "#FFFFFF",
+   "domain": "americanexpress.com"
+  },
+  {
+   "name": "ダイナースクラブカード",
+   "keys": [
+    "diners",
+    "ダイナース"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#004A97",
+   "domain": "diners.co.jp"
+  },
+  {
+   "name": "ダイナースクラブ プレミアムカード",
+   "keys": [
+    "diners",
+    "ダイナース"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#004A97",
+   "domain": "diners.co.jp"
+  },
+  {
+   "name": "楽天ゴールドカード",
+   "keys": [
+    "楽天カード"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#BF0000",
+   "yomi": "らくてんごーるどかーど",
+   "domain": "rakuten-card.co.jp"
+  },
+  {
+   "name": "楽天プレミアムカード",
+   "keys": [
+    "楽天カード"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#BF0000",
+   "yomi": "らくてんぷれみあむかーど",
+   "domain": "rakuten-card.co.jp"
+  },
+  {
+   "name": "ラグジュアリーカード チタン",
+   "keys": [
+    "luxury card"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#000000",
+   "fg": "#FFFFFF",
+   "domain": "luxurycard.co.jp"
+  },
+  {
+   "name": "ラグジュアリーカード ブラック",
+   "keys": [
+    "luxury card"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#000000",
+   "fg": "#FFFFFF",
+   "domain": "luxurycard.co.jp"
+  },
+  {
+   "name": "ラグジュアリーカード ゴールド",
+   "keys": [
+    "luxury card"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#000000",
+   "fg": "#D4AF37",
+   "domain": "luxurycard.co.jp"
+  },
+  {
+   "name": "マリオット ボンヴォイ アメックス",
+   "keys": [
+    "amex",
+    "マリオット",
+    "marriott"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#006FCF",
+   "fg": "#FFFFFF",
+   "domain": "americanexpress.com"
+  },
+  {
+   "name": "マリオット ボンヴォイ アメックス・プレミアム",
+   "keys": [
+    "amex",
+    "マリオット",
+    "marriott"
+   ],
+   "category": "クレジットカード",
+   "plans": [],
+   "color": "#006FCF",
+   "fg": "#FFFFFF",
+   "domain": "americanexpress.com"
+  },
+  {
+   "name": "JAL NEOBANK プレミアム",
+   "keys": [
+    "jal",
+    "住信sbi"
+   ],
+   "category": "金融・投資",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#CC0000",
+   "domain": "netbk.co.jp"
+  },
+  {
+   "name": "Moneytree Grow",
+   "keys": [
+    "マネーツリー"
+   ],
+   "category": "金融・投資",
+   "plans": [],
+   "domain": "moneytree.jp"
+  },
+  {
+   "name": "Revolut",
+   "keys": [
+    "レボリュート"
+   ],
+   "category": "金融・投資",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#000000",
+   "domain": "revolut.com"
+  },
+  {
+   "name": "DOWNTOWN+",
+   "keys": [
+    "ダウンタウンプラス"
+   ],
+   "category": "動画",
+   "plans": [],
+   "domain": "downtownplus.jp"
+  },
+  {
+   "name": "SBI証券 つみたてNISA",
+   "keys": [
+    "sbi",
+    "nisa",
+    "つみたて"
+   ],
+   "category": "金融・投資",
+   "plans": [],
+   "color": "#0A3D91",
+   "fg": "#FFFFFF",
+   "domain": "sbisec.co.jp"
+  },
+  {
+   "name": "楽天証券 つみたてNISA",
+   "keys": [
+    "楽天証券",
+    "nisa",
+    "つみたて"
+   ],
+   "category": "金融・投資",
+   "plans": [],
+   "color": "#FFFFFF",
+   "fg": "#BF0000",
+   "yomi": "らくてんしょうけん",
+   "domain": "rakuten-sec.co.jp"
+  },
+  {
+   "name": "三菱UFJ eスマート証券 つみたて",
+   "keys": [
+    "三菱ufj",
+    "auカブコム",
+    "nisa",
+    "つみたて"
+   ],
+   "category": "金融・投資",
+   "plans": [],
+   "color": "#E60012",
+   "fg": "#FFFFFF",
+   "yomi": "みつびしゆーえふじぇいいーすまーとしょうけん",
+   "domain": "kabu.com"
+  },
+  {
+   "name": "マネックス証券 つみたて",
+   "keys": [
+    "monex",
+    "nisa",
+    "つみたて"
+   ],
+   "category": "金融・投資",
+   "plans": [],
+   "color": "#FFD100",
+   "fg": "#000000",
+   "domain": "monex.co.jp"
+  },
+  {
+   "name": "WATCHA",
+   "keys": [
+    "ウォッチャ"
+   ],
+   "category": "動画",
+   "plans": [],
+   "domain": "watcha.com"
+  },
+  {
+   "name": "Amazonファミリー",
+   "keys": [
+    "amazon family"
+   ],
+   "category": "その他",
+   "plans": [],
+   "color": "#232F3E",
+   "fg": "#FF9900",
+   "domain": "amazon.co.jp"
+  }
+ ],
+ "fx": {
+  "USD": 158,
+  "asOf": "2026-10-29"
+ }
+}
