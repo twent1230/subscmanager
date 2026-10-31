@@ -10,6 +10,7 @@ p,li{font-size:.97rem}.sub{color:var(--sub);font-size:.85rem}a{color:var(--acc)}
 <h2>3. 外部サービスとの通信</h2><p>本アプリは、機能のために次の外部サービスと通信します。登録したサブスクの金額・支払い日・支払い方法・メモなどの内容は、どのサービスにも送りません。ただし、ロゴを表示するときだけ、登録したサービスの公式サイトのドメイン名をLogo.devに送ります(下記のLogo.devを参照)。</p>
 <ul><li><strong>Googleフォーム</strong>:フィードバックから送信したときだけ、入力した文章を送ります(4.を参照)。</li><li><strong>料金表の配信(GitHub Pages)</strong>:最新の料金・プラン・為替レートを <a href="https://twent1230.github.io/subscmanager/catalog.json">https://twent1230.github.io/subscmanager/catalog.json</a> から読み込みます。</li>
 <li><strong>Logo.dev</strong>:サービスのロゴを表示するため、登録したサービスの公式サイトのドメイン名(例:netflix.com)を送り、ロゴ画像を受け取ります。ドメイン名から、どのサービスを登録しているかが推測されうる点にご留意ください。運営者がこの情報を受け取ることはありません。</li>
+<li><strong>RevenueCat</strong>(RevenueCat, Inc.):有料プランの購入状況を管理するために使います。アプリごとに自動で作られる匿名の利用者ID、購入の履歴(商品・日時・有効期限など)、端末の種類やOSのバージョンなどが送られます。名前やメールアドレス、登録したサブスクの内容は送りません。詳しくは <a href="https://www.revenuecat.com/privacy">RevenueCatのプライバシーポリシー</a> をご覧ください。</li>
 <li><strong>App Store・Google Play</strong>:有料プラン(月額・年額のサブスクリプションと買い切り)の購入と、購入状況の確認(「購入を復元」を含む)に使います。決済はAppleまたはGoogleが行い、運営者がカード情報を受け取ることはありません。</li></ul>
 <p>通信の仕組み上、これらのサービスには端末のIPアドレスなどが伝わります。</p>
 <h2>4. フィードバック</h2><p>設定画面の「フィードバック」から送信した文章は、運営者が管理するGoogleフォーム(Google LLCのサービス)に送られ、アプリの改善のためだけに使います。送信される内容は利用者が入力した文章だけで、名前やメールアドレス、端末の識別子などは送られません。文章の中に個人情報を書かないでください。</p>
