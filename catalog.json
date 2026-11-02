@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-10-29",
+ "checkedAt": "2026-11-02",
  "services": [
   {
    "name": "Netflix",
@@ -599,6 +599,16 @@
      "plan": "2TB",
      "price": 1800,
      "cycle": "m"
+    },
+    {
+     "plan": "6TB",
+     "price": 5500,
+     "cycle": "m"
+    },
+    {
+     "plan": "12TB",
+     "price": 11000,
+     "cycle": "m"
     }
    ],
    "fg": "#3693F3",
@@ -686,6 +696,11 @@
      "plan": "Premium",
      "price": 3200,
      "cycle": "m"
+    },
+    {
+     "plan": "Premium 年額",
+     "price": 32000,
+     "cycle": "y"
     }
    ],
    "fg": "#0078D4",
@@ -896,7 +911,13 @@
    ],
    "category": "クラウド・ストレージ",
    "color": "#FFFFFF",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Plus",
+     "price": 9.99,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "fg": "#0061FF",
    "domain": "dropbox.com"
@@ -1204,7 +1225,7 @@
     },
     {
      "plan": "Ultimate",
-     "price": 2750,
+     "price": 1550,
      "cycle": "m"
     }
    ],
@@ -1308,12 +1329,12 @@
    "plans": [
     {
      "plan": "月額",
-     "price": 572,
+     "price": 597,
      "cycle": "m"
     },
     {
      "plan": "年額",
-     "price": 5500,
+     "price": 5980,
      "cycle": "y"
     }
    ],
@@ -1488,7 +1509,7 @@
     },
     {
      "plan": "15GB",
-     "price": 1800,
+     "price": 1600,
      "cycle": "m"
     },
     {
@@ -1522,7 +1543,7 @@
    "plans": [
     {
      "plan": "1か月プラン",
-     "price": 3700,
+     "price": 4100,
      "cycle": "m"
     }
    ],
@@ -1539,7 +1560,7 @@
    "plans": [
     {
      "plan": "1か月プラン(Web)",
-     "price": 3700,
+     "price": 4400,
      "cycle": "m"
     }
    ],
@@ -1757,7 +1778,18 @@
     "ノーション"
    ],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Plus",
+     "price": 10,
+     "cycle": "m"
+    },
+    {
+     "plan": "Business",
+     "price": 20,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "color": "#FFFFFF",
    "fg": "#000000",
@@ -1779,7 +1811,13 @@
     "フィグマ"
    ],
    "category": "デザイン・制作",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Professional",
+     "price": 15,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "color": "#1E1E1E",
    "fg": "#F24E1E",
@@ -1800,7 +1838,18 @@
     "スラック"
    ],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 8.75,
+     "cycle": "m"
+    },
+    {
+     "plan": "Business+",
+     "price": 18,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "color": "#4A154B",
    "fg": "#FFFFFF",
@@ -1860,7 +1909,28 @@
    "name": "Todoist",
    "keys": [],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 7,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 60,
+     "cycle": "y"
+    },
+    {
+     "plan": "Business",
+     "price": 10,
+     "cycle": "m"
+    },
+    {
+     "plan": "Business 年額",
+     "price": 96,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#FFFFFF",
    "fg": "#E44332",
@@ -1872,7 +1942,13 @@
     "github"
    ],
    "category": "開発",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 4,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "color": "#FFFFFF",
    "fg": "#181717",
@@ -1961,7 +2037,28 @@
    "name": "Raycast",
    "keys": [],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 10,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 96,
+     "cycle": "y"
+    },
+    {
+     "plan": "Plus",
+     "price": 20,
+     "cycle": "m"
+    },
+    {
+     "plan": "Plus 年額",
+     "price": 192,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "domain": "raycast.com"
   },
@@ -2146,7 +2243,13 @@
     "obsidian"
    ],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Sync",
+     "price": 5,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "domain": "obsidian.md"
   },
@@ -2175,7 +2278,18 @@
    "name": "Bitwarden",
    "keys": [],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Premium 年額",
+     "price": 19.8,
+     "cycle": "y"
+    },
+    {
+     "plan": "Families 年額",
+     "price": 47.88,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#175DDC",
    "fg": "#FFFFFF",
@@ -2349,7 +2463,23 @@
     "ワウワウ"
    ],
    "category": "動画",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "スタンダードプラン",
+     "price": 2530,
+     "cycle": "m"
+    },
+    {
+     "plan": "トリプルプラン",
+     "price": 3960,
+     "cycle": "m"
+    },
+    {
+     "plan": "トリプルプラン 年額",
+     "price": 43560,
+     "cycle": "y"
+    }
+   ],
    "color": "#003F98",
    "fg": "#FFFFFF",
    "domain": "wowow.co.jp"
@@ -2395,7 +2525,13 @@
     "ニコニコ"
    ],
    "category": "動画",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "プレミアム会員",
+     "price": 990,
+     "cycle": "m"
+    }
+   ],
    "color": "#FFFFFF",
    "fg": "#252525",
    "domain": "nicovideo.jp"
@@ -2815,7 +2951,18 @@
     "protonvpn"
    ],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "VPN Plus 年額",
+     "price": 83.88,
+     "cycle": "y"
+    },
+    {
+     "plan": "Proton Unlimited 年額",
+     "price": 119.88,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "domain": "protonvpn.com"
   },
@@ -3948,7 +4095,23 @@
     "ラジコ"
    ],
    "category": "音楽",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "エリアフリープラン",
+     "price": 385,
+     "cycle": "m"
+    },
+    {
+     "plan": "タイムフリー30プラン",
+     "price": 480,
+     "cycle": "m"
+    },
+    {
+     "plan": "ダブルプラン",
+     "price": 865,
+     "cycle": "m"
+    }
+   ],
    "color": "#00A0E9",
    "fg": "#FFFFFF",
    "domain": "radiko.jp"
@@ -4284,6 +4447,6 @@
  ],
  "fx": {
   "USD": 158,
-  "asOf": "2026-10-29"
+  "asOf": "2026-11-02"
  }
 }
