@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-08",
+ "checkedAt": "2026-11-15",
  "services": [
   {
    "name": "Netflix",
@@ -11,17 +11,17 @@
    "plans": [
     {
      "plan": "広告つきスタンダード",
-     "price": 890,
+     "price": 990,
      "cycle": "m"
     },
     {
      "plan": "スタンダード",
-     "price": 1590,
+     "price": 1790,
      "cycle": "m"
     },
     {
      "plan": "プレミアム",
-     "price": 2290,
+     "price": 2590,
      "cycle": "m"
     }
    ],
@@ -157,7 +157,7 @@
     },
     {
      "plan": "プレミアム 年額",
-     "price": 16500,
+     "price": 16700,
      "cycle": "y"
     }
    ],
@@ -222,7 +222,7 @@
      "cycle": "m"
     }
    ],
-   "cancelUrl": "https://support.spotify.com/jp/article/how-to-cancel-your-subscription/",
+   "cancelUrl": "https://support.spotify.com/jp/article/cancel-premium/",
    "category": "音楽",
    "color": "#191414",
    "fg": "#1DB954",
@@ -821,7 +821,12 @@
    "color": "#FFFFFF",
    "plans": [
     {
-     "plan": "月額",
+     "plan": "スタンダード",
+     "price": 880,
+     "cycle": "m"
+    },
+    {
+     "plan": "プレミアム",
      "price": 1500,
      "cycle": "m"
     }
@@ -889,12 +894,12 @@
      "cycle": "y"
     },
     {
-     "plan": "Max 5x",
+     "plan": "Max",
      "price": 100,
      "cycle": "m"
     },
     {
-     "plan": "Max 20x",
+     "plan": "Ultra",
      "price": 200,
      "cycle": "m"
     }
@@ -1009,13 +1014,18 @@
    "category": "AI・仕事効率化",
    "plans": [
     {
-     "plan": "Pro",
-     "price": 20,
+     "plan": "Plus",
+     "price": 8,
      "cycle": "m"
     },
     {
-     "plan": "Pro+",
-     "price": 60,
+     "plan": "Premium",
+     "price": 30,
+     "cycle": "m"
+    },
+    {
+     "plan": "Super",
+     "price": 100,
      "cycle": "m"
     },
     {
@@ -1594,7 +1604,7 @@
    "plans": [
     {
      "plan": "1か月プラン(カード)",
-     "price": 3900,
+     "price": 4400,
      "cycle": "m"
     },
     {
@@ -1725,9 +1735,9 @@
    "category": "クレジットカード",
    "plans": [
     {
-     "plan": "年会費",
-     "price": 13200,
-     "cycle": "y"
+     "plan": "月会費",
+     "price": 1100,
+     "cycle": "m"
     }
    ],
    "color": "#006FCF",
@@ -1781,12 +1791,12 @@
    "plans": [
     {
      "plan": "Plus",
-     "price": 10,
+     "price": 12,
      "cycle": "m"
     },
     {
      "plan": "Business",
-     "price": 20,
+     "price": 24,
      "cycle": "m"
     }
    ],
@@ -1802,7 +1812,18 @@
     "moneyforward"
    ],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "プレミアム スタンダード 月額",
+     "price": 540,
+     "cycle": "m"
+    },
+    {
+     "plan": "プレミアム スタンダード 年額",
+     "price": 5940,
+     "cycle": "y"
+    }
+   ],
    "domain": "moneyforward.com"
   },
   {
@@ -1890,7 +1911,28 @@
     "ザイム"
    ],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "プレミアム 月プラン(Web)",
+     "price": 440,
+     "cycle": "m"
+    },
+    {
+     "plan": "プレミアム 年プラン(Web)",
+     "price": 4378,
+     "cycle": "y"
+    },
+    {
+     "plan": "プレミアム 月プラン(アプリ)",
+     "price": 480,
+     "cycle": "m"
+    },
+    {
+     "plan": "プレミアム 年プラン(アプリ)",
+     "price": 4800,
+     "cycle": "y"
+    }
+   ],
    "domain": "zaim.net"
   },
   {
@@ -1899,7 +1941,18 @@
     "ワンパスワード"
    ],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Individual 年額",
+     "price": 47.88,
+     "cycle": "y"
+    },
+    {
+     "plan": "Families 年額",
+     "price": 71.88,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#1A1A1A",
    "fg": "#FFFFFF",
@@ -1968,7 +2021,13 @@
    "name": "Vercel",
    "keys": [],
    "category": "開発",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 20,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "color": "#000000",
    "fg": "#FFFFFF",
@@ -1978,7 +2037,18 @@
    "name": "Supabase",
    "keys": [],
    "category": "開発",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 25,
+     "cycle": "m"
+    },
+    {
+     "plan": "Team",
+     "price": 599,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "color": "#1C1C1C",
    "fg": "#3ECF8E",
@@ -2121,7 +2191,28 @@
     "スーノ"
    ],
    "category": "AI・仕事効率化",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 10,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 96,
+     "cycle": "y"
+    },
+    {
+     "plan": "Premier",
+     "price": 30,
+     "cycle": "m"
+    },
+    {
+     "plan": "Premier 年額",
+     "price": 288,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#FF5A1F",
    "fg": "#FFFFFF",
@@ -2177,7 +2268,18 @@
    "name": "Netlify",
    "keys": [],
    "category": "開発",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Personal",
+     "price": 9,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro",
+     "price": 20,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "color": "#FFFFFF",
    "fg": "#05BDBA",
@@ -2187,7 +2289,18 @@
    "name": "Railway",
    "keys": [],
    "category": "開発",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Hobby",
+     "price": 5,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro",
+     "price": 20,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "domain": "railway.com"
   },
@@ -2195,7 +2308,28 @@
    "name": "Docker",
    "keys": [],
    "category": "開発",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 11,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 108,
+     "cycle": "y"
+    },
+    {
+     "plan": "Team",
+     "price": 16,
+     "cycle": "m"
+    },
+    {
+     "plan": "Team 年額",
+     "price": 180,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#FFFFFF",
    "fg": "#1D63ED",
@@ -2205,7 +2339,13 @@
    "name": "GitLab",
    "keys": [],
    "category": "開発",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Premium 年額",
+     "price": 348,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#FFFFFF",
    "fg": "#FC6D26",
@@ -2223,7 +2363,28 @@
    "name": "Sentry",
    "keys": [],
    "category": "開発",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Team",
+     "price": 29,
+     "cycle": "m"
+    },
+    {
+     "plan": "Team 年額",
+     "price": 312,
+     "cycle": "y"
+    },
+    {
+     "plan": "Business",
+     "price": 89,
+     "cycle": "m"
+    },
+    {
+     "plan": "Business 年額",
+     "price": 960,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "domain": "sentry.io"
   },
@@ -2231,7 +2392,18 @@
    "name": "Linear",
    "keys": [],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Basic 年額",
+     "price": 120,
+     "cycle": "y"
+    },
+    {
+     "plan": "Business 年額",
+     "price": 192,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#222326",
    "fg": "#FFFFFF",
@@ -2268,7 +2440,18 @@
    "name": "Miro",
    "keys": [],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Starter 年額",
+     "price": 96,
+     "cycle": "y"
+    },
+    {
+     "plan": "Business 年額",
+     "price": 240,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#FFD02F",
    "fg": "#050038",
@@ -2310,7 +2493,23 @@
    "name": "ExpressVPN",
    "keys": [],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Basic 年額",
+     "price": 99.95,
+     "cycle": "y"
+    },
+    {
+     "plan": "Advanced 年額",
+     "price": 119.95,
+     "cycle": "y"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 199.95,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#DA3940",
    "fg": "#FFFFFF",
@@ -2452,7 +2651,28 @@
    "name": "Squarespace",
    "keys": [],
    "category": "ビジネス",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Basic",
+     "price": 25,
+     "cycle": "m"
+    },
+    {
+     "plan": "Basic 年額",
+     "price": 228,
+     "cycle": "y"
+    },
+    {
+     "plan": "Core",
+     "price": 39,
+     "cycle": "m"
+    },
+    {
+     "plan": "Core 年額",
+     "price": 348,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "domain": "squarespace.com"
   },
@@ -2501,7 +2721,18 @@
     "アップルアーケード"
    ],
    "category": "ゲーム",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "月額",
+     "price": 900,
+     "cycle": "m"
+    },
+    {
+     "plan": "年額",
+     "price": 6000,
+     "cycle": "y"
+    }
+   ],
    "color": "#FF3B30",
    "fg": "#FFFFFF",
    "domain": "apple.com"
@@ -2576,7 +2807,18 @@
     "nikkei"
    ],
    "category": "ニュース・雑誌",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "個人プラン",
+     "price": 4277,
+     "cycle": "m"
+    },
+    {
+     "plan": "ファミリープラン",
+     "price": 6800,
+     "cycle": "m"
+    }
+   ],
    "color": "#0D2C5E",
    "fg": "#FFFFFF",
    "yomi": "にっけいでんしばん",
@@ -2616,7 +2858,28 @@
    "name": "Replit",
    "keys": [],
    "category": "開発",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Core",
+     "price": 20,
+     "cycle": "m"
+    },
+    {
+     "plan": "Core 年額",
+     "price": 216,
+     "cycle": "y"
+    },
+    {
+     "plan": "Pro",
+     "price": 100,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 1080,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#FFFFFF",
    "fg": "#F26207",
@@ -2746,7 +3009,18 @@
    "name": "Airtable",
    "keys": [],
    "category": "ビジネス",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Team 年額",
+     "price": 240,
+     "cycle": "y"
+    },
+    {
+     "plan": "Business 年額",
+     "price": 540,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "domain": "airtable.com"
   },
@@ -4446,7 +4720,7 @@
   }
  ],
  "fx": {
-  "USD": 158,
-  "asOf": "2026-11-08"
+  "USD": 160,
+  "asOf": "2026-11-15"
  }
 }
