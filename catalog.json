@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-15",
+ "checkedAt": "2026-11-23",
  "services": [
   {
    "name": "Netflix",
@@ -1451,7 +1451,7 @@
      "cycle": "m"
     },
     {
-     "plan": "ベストプラン 3〜15GB",
+     "plan": "ベストプラン 3〜10GB",
      "price": 2090,
      "cycle": "m"
     },
@@ -2981,7 +2981,28 @@
    "name": "Asana",
    "keys": [],
    "category": "ビジネス",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Starter",
+     "price": 13.49,
+     "cycle": "m"
+    },
+    {
+     "plan": "Starter 年額",
+     "price": 131.88,
+     "cycle": "y"
+    },
+    {
+     "plan": "Advanced",
+     "price": 30.49,
+     "cycle": "m"
+    },
+    {
+     "plan": "Advanced 年額",
+     "price": 299.88,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#FFFFFF",
    "fg": "#F06A6A",
@@ -3140,7 +3161,18 @@
     "スクー"
    ],
    "category": "学習",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "プレミアム",
+     "price": 980,
+     "cycle": "m"
+    },
+    {
+     "plan": "プレミアム 年額",
+     "price": 9800,
+     "cycle": "y"
+    }
+   ],
    "domain": "schoo.jp"
   },
   {
@@ -3149,7 +3181,28 @@
     "ザピアー"
    ],
    "category": "ビジネス",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Professional",
+     "price": 29.99,
+     "cycle": "m"
+    },
+    {
+     "plan": "Professional 年額",
+     "price": 239.88,
+     "cycle": "y"
+    },
+    {
+     "plan": "Team",
+     "price": 103.5,
+     "cycle": "m"
+    },
+    {
+     "plan": "Team 年額",
+     "price": 828,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#FF4F00",
    "fg": "#FFFFFF",
@@ -3187,7 +3240,33 @@
     "トレロ"
    ],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Standard",
+     "price": 6,
+     "cycle": "m"
+    },
+    {
+     "plan": "Standard 年額",
+     "price": 60,
+     "cycle": "y"
+    },
+    {
+     "plan": "Premium",
+     "price": 12.5,
+     "cycle": "m"
+    },
+    {
+     "plan": "Premium 年額",
+     "price": 120,
+     "cycle": "y"
+    },
+    {
+     "plan": "Enterprise 年額",
+     "price": 210,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#0C66E4",
    "fg": "#FFFFFF",
@@ -3215,7 +3294,28 @@
     "protonmail"
    ],
    "category": "ツール・セキュリティ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Mail Plus",
+     "price": 4.99,
+     "cycle": "m"
+    },
+    {
+     "plan": "Mail Plus 年額",
+     "price": 47.88,
+     "cycle": "y"
+    },
+    {
+     "plan": "Proton Unlimited",
+     "price": 12.99,
+     "cycle": "m"
+    },
+    {
+     "plan": "Proton Unlimited 年額",
+     "price": 119.88,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "domain": "proton.me"
   },
@@ -3353,7 +3453,18 @@
     "convertkit"
    ],
    "category": "ビジネス",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Creator",
+     "price": 39,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro",
+     "price": 79,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "domain": "kit.com"
   },
@@ -3361,7 +3472,28 @@
    "name": "beehiiv",
    "keys": [],
    "category": "ビジネス",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Lite",
+     "price": 59,
+     "cycle": "m"
+    },
+    {
+     "plan": "Lite 年額",
+     "price": 588,
+     "cycle": "y"
+    },
+    {
+     "plan": "Pro",
+     "price": 109,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 1140,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "domain": "beehiiv.com"
   },
@@ -3379,7 +3511,23 @@
     "xserver"
    ],
    "category": "開発",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "スタンダード 年額",
+     "price": 13200,
+     "cycle": "y"
+    },
+    {
+     "plan": "プレミアム 年額",
+     "price": 26400,
+     "cycle": "y"
+    },
+    {
+     "plan": "ビジネス 年額",
+     "price": 52800,
+     "cycle": "y"
+    }
+   ],
    "color": "#FFFFFF",
    "fg": "#0E1E3F",
    "domain": "xserver.ne.jp"
@@ -3442,7 +3590,18 @@
    "name": "Buffer",
    "keys": [],
    "category": "ビジネス",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Essentials",
+     "price": 5,
+     "cycle": "m"
+    },
+    {
+     "plan": "Team",
+     "price": 10,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "domain": "buffer.com"
   },
@@ -3458,7 +3617,18 @@
    "name": "Lovable",
    "keys": [],
    "category": "AI・仕事効率化",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 25,
+     "cycle": "m"
+    },
+    {
+     "plan": "Business",
+     "price": 50,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "color": "#FF4F6E",
    "fg": "#FFFFFF",
@@ -3470,7 +3640,18 @@
     "bolt.new"
    ],
    "category": "AI・仕事効率化",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Pro",
+     "price": 25,
+     "cycle": "m"
+    },
+    {
+     "plan": "Teams",
+     "price": 30,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "domain": "bolt.new"
   },
@@ -3478,7 +3659,18 @@
    "name": "Dify",
    "keys": [],
    "category": "AI・仕事効率化",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Professional 年額",
+     "price": 590,
+     "cycle": "y"
+    },
+    {
+     "plan": "Team 年額",
+     "price": 1590,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "domain": "dify.ai"
   },
@@ -3582,7 +3774,18 @@
     "フライヤー"
    ],
    "category": "書籍・マンガ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "シルバー",
+     "price": 550,
+     "cycle": "m"
+    },
+    {
+     "plan": "ゴールド",
+     "price": 2200,
+     "cycle": "m"
+    }
+   ],
    "domain": "flierinc.com"
   },
   {
@@ -3602,7 +3805,18 @@
     "コーセラ"
    ],
    "category": "学習",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "月額",
+     "price": 59,
+     "cycle": "m"
+    },
+    {
+     "plan": "年額",
+     "price": 399,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#0056D2",
    "fg": "#FFFFFF",
@@ -3692,7 +3906,28 @@
    "name": "Brilliant",
    "keys": [],
    "category": "学習",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Premium",
+     "price": 20,
+     "cycle": "m"
+    },
+    {
+     "plan": "Premium 年額",
+     "price": 168,
+     "cycle": "y"
+    },
+    {
+     "plan": "Family",
+     "price": 40,
+     "cycle": "m"
+    },
+    {
+     "plan": "Family 年額",
+     "price": 336,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "domain": "brilliant.org"
   },
@@ -3700,7 +3935,28 @@
    "name": "Codecademy",
    "keys": [],
    "category": "学習",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Plus",
+     "price": 29.99,
+     "cycle": "m"
+    },
+    {
+     "plan": "Plus 年額",
+     "price": 179.88,
+     "cycle": "y"
+    },
+    {
+     "plan": "Pro",
+     "price": 39.99,
+     "cycle": "m"
+    },
+    {
+     "plan": "Pro 年額",
+     "price": 239.88,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "domain": "codecademy.com"
   },
@@ -3891,7 +4147,13 @@
     "excalidraw"
    ],
    "category": "デザイン・制作",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Plus",
+     "price": 6,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "domain": "excalidraw.com"
   },
@@ -3912,7 +4174,28 @@
     "トレーディングビュー"
    ],
    "category": "金融・投資",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Essential 年額",
+     "price": 155.4,
+     "cycle": "y"
+    },
+    {
+     "plan": "Plus 年額",
+     "price": 359.4,
+     "cycle": "y"
+    },
+    {
+     "plan": "Premium 年額",
+     "price": 719.4,
+     "cycle": "y"
+    },
+    {
+     "plan": "Ultimate 年額",
+     "price": 2399.4,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "color": "#131722",
    "fg": "#FFFFFF",
@@ -4241,7 +4524,23 @@
    "name": "HeyGen",
    "keys": [],
    "category": "AI・仕事効率化",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Creator",
+     "price": 29,
+     "cycle": "m"
+    },
+    {
+     "plan": "Creator 年額",
+     "price": 288,
+     "cycle": "y"
+    },
+    {
+     "plan": "Pro",
+     "price": 49,
+     "cycle": "m"
+    }
+   ],
    "cur": "USD",
    "domain": "heygen.com"
   },
@@ -4394,7 +4693,13 @@
    "name": "Backblaze",
    "keys": [],
    "category": "クラウド・ストレージ",
-   "plans": [],
+   "plans": [
+    {
+     "plan": "Personal Backup 年額",
+     "price": 99,
+     "cycle": "y"
+    }
+   ],
    "cur": "USD",
    "domain": "backblaze.com"
   },
@@ -4720,7 +5025,7 @@
   }
  ],
  "fx": {
-  "USD": 160,
-  "asOf": "2026-11-15"
+  "USD": 159,
+  "asOf": "2026-11-20"
  }
 }
